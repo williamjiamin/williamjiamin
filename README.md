@@ -1,4 +1,7 @@
-### Hi Internet. I am Williamjiamin. Welcome to lexueoude.com. 👋 <br>
+### Hi Internet. I am Williamjiamin. 
+I am A Computer Scientist/Quantitative Analyst/CFA/FRM/CPA/Open source and Technology Evangelist and Chief Education Officer of LeXueOuDe Inc. 
+Welcome to lexueoude.com. 👋 <br>
+
 ### Hi， 你好，我是乐学偶得的William，欢迎来到这里。这里我和一群有趣的教研小伙伴会与大家分享课堂的笔记、代码、前沿项目、好玩儿的内容。更多内容也欢迎关注公众号1：乐学偶得 2:乐学FinTech 。也欢迎来乐学偶得玩： lexueoude.com👋<br>
 
 经过了五六年的积累，我们已经开源了一百多个课程的笔记与代码。会不断更新好的学习路径与笔记、代码分享给大家～欢迎🌟star、fork、follow三连～～～
@@ -44,5 +47,12 @@
 
 ### Pure Python机器学习与数据科学算法与实战
 
-[1.数据科学与机器学习](https://github.com/williamjiamin/Pure_Python_for_DS_ML)<br>
+[1.数据科学与机器学习](https://study.163.com/course/courseMain.htm?courseId=1209346808&_trace_c_p_k2_=690cbd76a8e1421f8f8fabf706ee1501)<br>
+
+[1.数据科学与机器学习](https://study.163.com/course/courseMain.htm?courseId=1209346808&_trace_c_p_k2_=690cbd76a8e1421f8f8fabf706ee1501)<br>
+
+### 计算机视觉
+[点我跳转【计算机视觉】方向【视频】，已更新【300】节课+还在持续更新ing](https://github.com/williamjiamin/Pure_Python_for_DS_ML) <br>
+
+[1.计算机视觉](https://github.com/williamjiamin/Computer_Vision)<br>
 
