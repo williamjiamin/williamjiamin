@@ -7,7 +7,7 @@
 
 ### Python零基础入门
 
-[推荐Python零基础入门到6大热门应用方向，已更新4000节课+还在持续更新ing](https://study.163.com/series/1202843603.htm) <br>
+[【特别推荐】点我跳转【Python零基础入门到6大热门应用方向】系统化【视频】，已更新4000节课+还在持续更新ing](https://study.163.com/series/1202843603.htm) <br>
 
 [1.算法进阶练习阅读作业与笔记代码](https://github.com/williamjiamin/PythonAlgo)<br>
 [2.进阶概念练习作业与笔记代码](https://github.com/williamjiamin/AdvancePythonEdu)<br>
@@ -17,9 +17,20 @@
 
 ### Python全栈
 
-[推荐Python全栈开发方向，已更新800节课+还在持续更新ing](https://study.163.com/series/1202860601.htm) <br>
+[点我跳转【Python全栈开发】方向【视频】，已更新800节课+还在持续更新ing](https://study.163.com/series/1202860601.htm) <br>
 
-[1.全栈入门](https://github.com/williamjiamin/Full_Stack_Intro)
-[2.全栈flask框架项目](https://github.com/williamjiamin/Flask_Edu)
-[3.全栈django项目](https://github.com/williamjiamin/Django_Edu)
-[4.全栈前端项目](https://github.com/williamjiamin/Semantic_UI_Edu)
+[1.全栈入门](https://github.com/williamjiamin/Full_Stack_Intro)<br>
+[2.全栈flask框架项目](https://github.com/williamjiamin/Flask_Edu)<br>
+[3.全栈django项目](https://github.com/williamjiamin/Django_Edu)<br>
+[4.全栈前端项目](https://github.com/williamjiamin/Semantic_UI_Edu)<br>
+
+
+### Java全栈
+
+[点我跳转【Java全栈开发】方向【视频】，已更新【1000】节课+还在持续更新ing](https://study.163.com/series/1202859602.htm) <br>
+
+[1.Java零基础入门](https://github.com/williamjiamin/Java_Intro)
+[2.Java进阶概念](https://github.com/williamjiamin/AdvanceJavaEdu)
+[3.JavaWeb入门与小项目](https://github.com/williamjiamin/Java_Web_Intro)
+[4.商城项目](https://github.com/williamjiamin/LXODShop_Edu)
+[5.Spring项目](https://github.com/williamjiamin/SpringBoot_Edu_Project)
