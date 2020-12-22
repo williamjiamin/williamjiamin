@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi Internet. I am Williamjiamin. Welcome to lexueoude.com. 👋
+### Hi， 你好，我是乐学偶得的William，欢迎来到这里。这里我和一群有趣的教研小伙伴会与大家分享课堂的笔记、代码、前沿项目、好玩儿的内容。更多内容也欢迎关注公众号1：乐学偶得 2:乐学FinTech 。也来乐学偶得来玩： lexueoude.com👋
 
 <!--
 **williamjiamin/williamjiamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
