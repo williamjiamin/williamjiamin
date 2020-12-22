@@ -48,7 +48,7 @@
 
 [点我跳转【数据科学与机器学习】方向【视频】，已更新【500】节课+还在持续更新ing](https://study.163.com/course/courseMain.htm?courseId=1209346808&_trace_c_p_k2_=690cbd76a8e1421f8f8fabf706ee1501)<br>
 
-[1.数据科学与机器学习](https://study.163.com/course/courseMain.htm?courseId=1209346808&_trace_c_p_k2_=690cbd76a8e1421f8f8fabf706ee1501)<br>
+[Pure Python实现数据科学与机器学习经典算法与经典实战案例笔记、板书、代码、数据源](https://github.com/williamjiamin/Pure_Python_for_DS_ML)<br>
 
 ### 计算机视觉
 [点我跳转【计算机视觉】方向【视频】，已更新【300】节课+还在持续更新ing](https://github.com/williamjiamin/Pure_Python_for_DS_ML) <br>
