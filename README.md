@@ -3,3 +3,8 @@
 
 经过了五六年的积累，我们已经开源了一百多个课程的笔记与代码。会不断更新好的学习路径与笔记、代码分享给大家～欢迎🌟star、fork、follow三连～～～
 
+
+### Python零基础入门
+
+[1.算法进阶练习阅读作业与笔记代码](https://github.com/williamjiamin/PythonAlgo)
+
