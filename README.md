@@ -39,6 +39,6 @@
 ### 量化投资系列（FinTech/Q_Quant/P_Quant）
 
 [1.FinTech金融科技入门](https://github.com/williamjiamin/LXOD_FinTech_Intro)<br>
-[2.量化交易入门]（https://github.com/williamjiamin/Quant_Intro）<br>
-[3.股票估值]（https://github.com/williamjiamin/LoveShareFinTech-Equity_Valuation）<br>
-[4.数据科学与机器学习]（https://github.com/williamjiamin/Pure_Python_for_DS_ML）<br>
+[2.量化交易入门](https://github.com/williamjiamin/Quant_Intro)<br>
+[3.股票估值](https://github.com/williamjiamin/LoveShareFinTech-Equity_Valuation)<br>
+[4.数据科学与机器学习](https://github.com/williamjiamin/Pure_Python_for_DS_ML)<br>
