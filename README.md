@@ -47,7 +47,7 @@ Welcome to lexueoude.com. 👋 <br>
 
 ### Pure Python机器学习与数据科学算法与实战
 
-[1.数据科学与机器学习](https://study.163.com/course/courseMain.htm?courseId=1209346808&_trace_c_p_k2_=690cbd76a8e1421f8f8fabf706ee1501)<br>
+[点我跳转【数据科学与机器学习】方向【视频】，已更新【500】节课+还在持续更新ing](https://study.163.com/course/courseMain.htm?courseId=1209346808&_trace_c_p_k2_=690cbd76a8e1421f8f8fabf706ee1501)<br>
 
 [1.数据科学与机器学习](https://study.163.com/course/courseMain.htm?courseId=1209346808&_trace_c_p_k2_=690cbd76a8e1421f8f8fabf706ee1501)<br>
 
