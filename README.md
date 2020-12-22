@@ -7,11 +7,19 @@
 
 ### Python零基础入门
 
-[推荐Python零基础入门到6大热门应用方向，已更新4000节课+还在持续更新ing](https://study.163.com/series/1202843603.htm)
+[推荐Python零基础入门到6大热门应用方向，已更新4000节课+还在持续更新ing](https://study.163.com/series/1202843603.htm) <br>
 
-[1.算法进阶练习阅读作业与笔记代码](https://github.com/williamjiamin/PythonAlgo)
-[2.进阶概念练习作业与笔记代码](https://github.com/williamjiamin/AdvancePythonEdu)
-[3.Python常见概念与应用练习题作业与讲解笔记代码](https://github.com/williamjiamin/LXOD_Python_Quizzes_Answers_And_Tips)
-[4.课后练手练习作业与实例解答推荐](https://www.runoob.com/python3/python3-examples.html)
-[5.爬虫项目]([4.课后练手练习作业与实例解答推荐](https://www.runoob.com/python3/python3-examples.html)
+[1.算法进阶练习阅读作业与笔记代码](https://github.com/williamjiamin/PythonAlgo)<br>
+[2.进阶概念练习作业与笔记代码](https://github.com/williamjiamin/AdvancePythonEdu)<br>
+[3.Python常见概念与应用练习题作业与讲解笔记代码](https://github.com/williamjiamin/LXOD_Python_Quizzes_Answers_And_Tips)<br>
+[4.课后练手练习作业与实例解答推荐](https://www.runoob.com/python3/python3-examples.html)<br>
+[5.爬虫项目](https://www.runoob.com/python3/python3-examples.html)<br>
 
+### Python全栈
+
+[推荐Python全栈开发方向，已更新800节课+还在持续更新ing](https://study.163.com/series/1202860601.htm) <br>
+
+[1.全栈入门](https://github.com/williamjiamin/Full_Stack_Intro)
+[2.全栈flask框架项目](https://github.com/williamjiamin/Flask_Edu)
+[3.全栈django项目](https://github.com/williamjiamin/Django_Edu)
+[4.全栈前端项目](https://github.com/williamjiamin/Semantic_UI_Edu)
