@@ -29,8 +29,8 @@
 
 [点我跳转【Java全栈开发】方向【视频】，已更新【1000】节课+还在持续更新ing](https://study.163.com/series/1202859602.htm) <br>
 
-[1.Java零基础入门](https://github.com/williamjiamin/Java_Intro)
-[2.Java进阶概念](https://github.com/williamjiamin/AdvanceJavaEdu)
-[3.JavaWeb入门与小项目](https://github.com/williamjiamin/Java_Web_Intro)
-[4.商城项目](https://github.com/williamjiamin/LXODShop_Edu)
-[5.Spring项目](https://github.com/williamjiamin/SpringBoot_Edu_Project)
+[1.Java零基础入门](https://github.com/williamjiamin/Java_Intro)<br>
+[2.Java进阶概念](https://github.com/williamjiamin/AdvanceJavaEdu)<br>
+[3.JavaWeb入门与小项目](https://github.com/williamjiamin/Java_Web_Intro)<br>
+[4.商城项目](https://github.com/williamjiamin/LXODShop_Edu)<br>
+[5.Spring项目](https://github.com/williamjiamin/SpringBoot_Edu_Project)<br>
