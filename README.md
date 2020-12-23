@@ -7,7 +7,7 @@
 
 大致的学习路径、体系、作业、笔记、源码与各种项目如下，希望对您有帮助～ 一起加油⛽️～
 
-### Python零基础入门
+### Python零基础入门与6大热门应用方向（量化、自动办公、数据科学与机器学习、全栈开发、计算机视觉、算法等）
 
 [【特别推荐】点我跳转【Python零基础入门到6大热门应用方向】系统化【视频】，已更新4000节课+还在持续更新ing](https://study.163.com/series/1202843603.htm) <br>
 
@@ -15,7 +15,18 @@
 [2.进阶概念练习作业与笔记代码](https://github.com/williamjiamin/AdvancePythonEdu)<br>
 [3.Python常见概念与应用练习题作业与讲解笔记代码](https://github.com/williamjiamin/LXOD_Python_Quizzes_Answers_And_Tips)<br>
 [4.课后练手练习作业与实例解答推荐](https://www.runoob.com/python3/python3-examples.html)<br>
-[5.爬虫项目](https://www.runoob.com/python3/python3-examples.html)<br>
+[5.爬虫项目](https://github.com/williamjiamin/py_web_scrapper)<br>
+[6.Python-bash打通控制系统](https://github.com/williamjiamin/python_bash_connect)<br>
+[7.Python-多进程图片处理器](https://github.com/williamjiamin/multi_processing_img_processor)<br>
+[7.Python-多线程图片下载器](https://github.com/williamjiamin/multi-threading_downloader)<br>
+[8.Python-多线程讲解](https://github.com/williamjiamin/Threading_In_Python)<br>
+[9.Python-os系统管理](https://github.com/williamjiamin/OS_Management_Using_Python)<br>
+[10.Python-生命的游戏创建2D宇宙](https://github.com/williamjiamin/make_2D_universe)<br>
+[11.Python-stack数据结构](https://github.com/williamjiamin/Data_Structure_In_Python)<br>
+[12.Python-win32接口](https://github.com/williamjiamin/py_win32)<br>
+[13.Python-pdf处理](https://github.com/williamjiamin/python_pdf)<br>
+[14.Python-excel处理](https://github.com/williamjiamin/xlwings_intro)<br>
+
 
 ### Python全栈
 
@@ -36,8 +47,21 @@
 [3.JavaWeb入门与小项目](https://github.com/williamjiamin/Java_Web_Intro)<br>
 [4.商城项目](https://github.com/williamjiamin/LXODShop_Edu)<br>
 [5.Spring项目](https://github.com/williamjiamin/SpringBoot_Edu_Project)<br>
-[6.安卓项目](https://github.com/williamjiamin/SpringBoot_Edu_Project)<br>
+[6.安卓入门](https://github.com/williamjiamin/Andriod_Dev_Intro)<br>
+[7.安卓项目](https://github.com/williamjiamin/Android_Test_Bank)<br>
 
+### C语言入门
+
+[1.C语言零基础入门](https://github.com/williamjiamin/C_Intro)<br>
+
+### JavaScript入门
+
+[1.JavaScript零基础入门](https://github.com/williamjiamin/JS_Quick_Intro)<br>
+
+
+### C++ 封神之路
+
+内容非常多，这边命名规范是【数字】.CPP_Intro_【各个课程章节名称】，因为内容极其多，目前是分repo上传的，整体完结后会汇总一个大repo并更新到这里。
 
 
 ### 量化投资系列（FinTech/Q_Quant/P_Quant）
@@ -47,6 +71,12 @@
 [3.股票估值](https://github.com/williamjiamin/LoveShareFinTech-Equity_Valuation)<br>
 [4.市场-人-江湖：行为金融学](https://github.com/williamjiamin/Behavioral_Finance)<br>
 [5.中高级量化宽客（偏Q-Quant，涉及部分P-Quant策略综合应用）Python版。](https://github.com/williamjiamin/Behavioral_Finance)<br>
+
+### 投行/财务建模/VBA自动化等二次开发
+
+
+[1.VBA系统化入门到进阶（内含有常用小脚本）](https://github.com/williamjiamin/VBA)<br>
+
 
 ### Pure Python机器学习与数据科学算法与实战
 
@@ -58,5 +88,28 @@
 [点我跳转【计算机视觉】方向【视频】，已更新【300】节课+还在持续更新ing](https://github.com/williamjiamin/Pure_Python_for_DS_ML) <br>
 
 [1.计算机视觉](https://github.com/williamjiamin/Computer_Vision)<br>
+[2.字符流转化小项目](https://github.com/williamjiamin/CVFunny_Video2Str)<br>
+
+
+### 游戏开发/3D建模/C++引擎底层开发
+[1.从零搭建3D冒险游戏](https://github.com/williamjiamin/CS_Game_Dev_Edu)<br>
+[2.从零搭建RTS即时战略游戏](https://github.com/williamjiamin/RTS_Game_Dev)<br>
+
+### 运维/服务器硬化/信息安全/白帽黑客/互联网攻防/
+
+[1.信息安全工程师系列](https://github.com/williamjiamin/InfoSec_Notes)<br>
+[2.Bash自动化脚本系统训练](https://github.com/williamjiamin/BASH_Deep_Dive)<br>
+[3.密码学](https://github.com/williamjiamin/Cryptography)<br>
+
+
+
+### 产品经历/设计/后现代互联网全流程实战
+
+[1.Axure原型与课堂使用素材、元件](https://github.com/williamjiamin/some_good_stuff_of_Axure)<br>
+
+### IOS开发
+
+[1.车辆控制App](https://github.com/williamjiamin/IOS_Dev_Intro_1_Car_APP)
+
 
 持续整理更新ing～
