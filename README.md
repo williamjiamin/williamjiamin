@@ -51,10 +51,13 @@
 [7.安卓项目](https://github.com/williamjiamin/Android_Test_Bank)<br>
 
 ### C语言入门
+[点我跳转【C语言入门】方向【视频】附赠了部分C++入门内容，已更新200节课+还在持续更新ing](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000627054&courseId=1209145830&_trace_c_p_k2_=30a223c09d7c4666b5ac4b747292e6bf) <br>
 配套代码、笔记开源：<br>
 [1.C语言零基础入门](https://github.com/williamjiamin/C_Intro)<br>
 
 ### JavaScript入门
+
+[点我跳转【JavaScript入门】方向【视频】已更新20节课+还在持续更新ing](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000627054&courseId=1210074273&_trace_c_p_k2_=6f8e266fdecf48efa0951b0dc2502339) <br>
 配套代码、笔记开源：<br>
 [1.JavaScript零基础入门](https://github.com/williamjiamin/JS_Quick_Intro)<br>
 
@@ -77,6 +80,7 @@
 
 ### 投行/财务建模/VBA自动化等二次开发
 
+[点我跳转【实用Excel操作与VBA财务金融建模】方向【视频】，已更新【300】节课+还在持续更新ing](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000627054&courseId=1006464019&_trace_c_p_k2_=e46f13c7492f41fb95190e525e82da49)<br>
 配套代码、笔记开源：<br>
 [1.VBA系统化入门到进阶（内含有常用小脚本）](https://github.com/williamjiamin/VBA)<br>
 
@@ -95,13 +99,15 @@
 
 
 ### 游戏开发/3D建模/C++引擎底层开发
-
+[点我跳转【游戏开发】方向【视频】，已更新【400】节课+还在持续更新ing.](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000627054&courseId=1208986801&_trace_c_p_k2_=895bb2135d4449e29cb34064de8482ac) <br>
 配套代码、笔记开源：<br>
 [1.从零搭建3D冒险游戏](https://github.com/williamjiamin/CS_Game_Dev_Edu)<br>
 [2.从零搭建RTS即时战略游戏](https://github.com/williamjiamin/RTS_Game_Dev)<br>
 
 ### 运维/服务器硬化/信息安全/白帽黑客/互联网攻防/
 
+[点我跳转【Linux与红帽工程师、架构师】方向【视频】，已更新【500】节课+还在持续更新ing](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000627054&courseId=1208981820&_trace_c_p_k2_=bfe190f589ed427dac045f6a4a176816) <br>
+[点我跳转【信息安全工程师、白帽黑客】方向【视频】，已更新【300】节课+还在持续更新ing.注意：新手强烈建议从上一个Linux基础开始学，非常不建议无基础直接学习这部分内容。](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000627054&courseId=1209044802&_trace_c_p_k2_=dbc626c6b1c5450798935701a2c34732) <br>
 配套代码、笔记开源：<br>
 [1.信息安全工程师系列](https://github.com/williamjiamin/InfoSec_Notes)<br>
 [2.Bash自动化脚本系统训练](https://github.com/williamjiamin/BASH_Deep_Dive)<br>
@@ -111,6 +117,7 @@
 
 ### 产品经历/设计/后现代互联网全流程实战
 
+[点我跳转【产品经理、涉及、后现代互联网产品全流程】方向【视频】，已更新【700】节课+还在持续更新ing.注意：产品与设计部分为入门内容，全流程实战建议有一定安卓开发与ios开发基础。](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000627054&courseId=1209044802&_trace_c_p_k2_=dbc626c6b1c5450798935701a2c34732) <br>
 配套代码、笔记开源：<br>
 [1.Axure原型与课堂使用素材、元件](https://github.com/williamjiamin/some_good_stuff_of_Axure)<br>
 
