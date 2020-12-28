@@ -10,7 +10,7 @@
 ### Python零基础入门与6大热门应用方向（量化、自动办公、数据科学与机器学习、全栈开发、计算机视觉、算法等）
 
 [【特别推荐】点我跳转【Python零基础入门到6大热门应用方向】系统化【视频】，已更新4000节课+还在持续更新ing](https://study.163.com/series/1202843603.htm) <br>
-
+配套代码、笔记开源：<br>
 [1.算法进阶练习阅读作业与笔记代码](https://github.com/williamjiamin/PythonAlgo)<br>
 [2.进阶概念练习作业与笔记代码](https://github.com/williamjiamin/AdvancePythonEdu)<br>
 [3.Python常见概念与应用练习题作业与讲解笔记代码](https://github.com/williamjiamin/LXOD_Python_Quizzes_Answers_And_Tips)<br>
@@ -31,7 +31,7 @@
 ### Python全栈
 
 [点我跳转【Python全栈开发】方向【视频】，已更新800节课+还在持续更新ing](https://study.163.com/series/1202860601.htm) <br>
-
+配套代码、笔记开源：<br>
 [1.全栈入门](https://github.com/williamjiamin/Full_Stack_Intro)<br>
 [2.全栈flask框架项目](https://github.com/williamjiamin/Flask_Edu)<br>
 [3.全栈django项目](https://github.com/williamjiamin/Django_Edu)<br>
@@ -41,7 +41,7 @@
 ### Java全栈
 
 [点我跳转【Java全栈开发】方向【视频】，已更新【1000】节课+还在持续更新ing](https://study.163.com/series/1202859602.htm) <br>
-
+配套代码、笔记开源：<br>
 [1.Java零基础入门](https://github.com/williamjiamin/Java_Intro)<br>
 [2.Java进阶概念](https://github.com/williamjiamin/AdvanceJavaEdu)<br>
 [3.JavaWeb入门与小项目](https://github.com/williamjiamin/Java_Web_Intro)<br>
@@ -51,11 +51,11 @@
 [7.安卓项目](https://github.com/williamjiamin/Android_Test_Bank)<br>
 
 ### C语言入门
-
+配套代码、笔记开源：<br>
 [1.C语言零基础入门](https://github.com/williamjiamin/C_Intro)<br>
 
 ### JavaScript入门
-
+配套代码、笔记开源：<br>
 [1.JavaScript零基础入门](https://github.com/williamjiamin/JS_Quick_Intro)<br>
 
 
@@ -66,6 +66,9 @@
 
 ### 量化投资系列（FinTech/Q_Quant/P_Quant）
 
+[点我跳转【FinTech金融科技（这部分为系统性介绍金融市场、各类金融产品、经济与财经等基础知识与Python在金融中的入门应用为主，偏量化金融应用）】方向【视频】，已更新【400】节课+还在持续更新ing](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000627054&courseId=1209331955&_trace_c_p_k2_=be7788311f364bb1a97bf56e4db37de0) <br>
+[点我跳转【Python量化（这部分为量化技术指标分析与自定义讲解、量化策略构建等为主，偏资本市场的量化应用）】方向【视频】，已更新【300】节课+还在持续更新ing](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000627054&courseId=1209404813&_trace_c_p_k2_=637a8af5dbc7482e9fdc498ac3350562) <br>
+配套代码、笔记开源：<br>
 [1.FinTech金融科技入门](https://github.com/williamjiamin/LXOD_FinTech_Intro)<br>
 [2.量化交易入门](https://github.com/williamjiamin/Quant_Intro)<br>
 [3.股票估值](https://github.com/williamjiamin/LoveShareFinTech-Equity_Valuation)<br>
@@ -74,29 +77,32 @@
 
 ### 投行/财务建模/VBA自动化等二次开发
 
-
+配套代码、笔记开源：<br>
 [1.VBA系统化入门到进阶（内含有常用小脚本）](https://github.com/williamjiamin/VBA)<br>
 
 
 ### Pure Python机器学习与数据科学算法与实战
 
 [点我跳转【数据科学与机器学习】方向【视频】，已更新【500】节课+还在持续更新ing](https://study.163.com/course/courseMain.htm?courseId=1209346808&_trace_c_p_k2_=690cbd76a8e1421f8f8fabf706ee1501)<br>
-
+配套代码、笔记开源：<br>
 [Pure Python实现数据科学与机器学习经典算法与经典实战案例笔记、板书、代码、数据源](https://github.com/williamjiamin/Pure_Python_for_DS_ML)<br>
 
 ### 计算机视觉
 [点我跳转【计算机视觉】方向【视频】，已更新【300】节课+还在持续更新ing](https://github.com/williamjiamin/Pure_Python_for_DS_ML) <br>
-
+配套代码、笔记开源：<br>
 [1.计算机视觉](https://github.com/williamjiamin/Computer_Vision)<br>
 [2.字符流转化小项目](https://github.com/williamjiamin/CVFunny_Video2Str)<br>
 
 
 ### 游戏开发/3D建模/C++引擎底层开发
+
+配套代码、笔记开源：<br>
 [1.从零搭建3D冒险游戏](https://github.com/williamjiamin/CS_Game_Dev_Edu)<br>
 [2.从零搭建RTS即时战略游戏](https://github.com/williamjiamin/RTS_Game_Dev)<br>
 
 ### 运维/服务器硬化/信息安全/白帽黑客/互联网攻防/
 
+配套代码、笔记开源：<br>
 [1.信息安全工程师系列](https://github.com/williamjiamin/InfoSec_Notes)<br>
 [2.Bash自动化脚本系统训练](https://github.com/williamjiamin/BASH_Deep_Dive)<br>
 [3.密码学](https://github.com/williamjiamin/Cryptography)<br>
@@ -105,10 +111,12 @@
 
 ### 产品经历/设计/后现代互联网全流程实战
 
+配套代码、笔记开源：<br>
 [1.Axure原型与课堂使用素材、元件](https://github.com/williamjiamin/some_good_stuff_of_Axure)<br>
 
 ### IOS开发
 
+配套代码、笔记开源：<br>
 [1.车辆控制App](https://github.com/williamjiamin/IOS_Dev_Intro_1_Car_APP)
 
 
