@@ -1,10 +1,5 @@
-### Hi Internet. I am Williamjiamin. 
-### I am A Computer Scientist/Quantitative Analyst/CFA/FRM/CPA/CIA/CCSA/<br>
-### I used to be a investment banker but soon get bored of "the old and sluggish financal system".<br>
-### Then I worked as a public fund manager with AUM 3 billion.<br>
-### Now I manage a private fund for my family&friends.<br>
-### In leisure time, I share interesting technology &finance project online. I also do a little bit of venture capital investing to help young people get away from 996 and actually create somthing interesting. <br>
-### I am a Open source and Technology Evangelist and Chief Education Officer of LEXUEOUDE Inc.
+Hi Internet. I am Williamjiamin. I am A Computer Scientist/Quantitative Analyst/CFA/FRM/CPA/CIA/CCSA/. I used to be a investment banker but soon get bored of "the old and sluggish financal system".Then I worked as a public fund manager with AUM 3 billion.Now I manage a private fund for my family&friends.<br>
+In leisure time, I share interesting technology & finance project online. I also do a little bit of venture capital investing to help young people get away from 996 and actually create somthing interesting. I am a Open source and Technology Evangelist and Chief Education Officer of LEXUEOUDE Inc.<br>
 ### Welcome to lexueoude.com. 👋 <br>
 
 ### Hi， 你好，我是乐学偶得的William，欢迎来到这里。这里我和一群有趣的教研小伙伴会与大家分享课堂的笔记、代码、前沿项目、好玩儿的内容。更多内容也欢迎关注公众号1：乐学偶得 2:乐学FinTech 。也欢迎来乐学偶得玩： lexueoude.com👋<br>
