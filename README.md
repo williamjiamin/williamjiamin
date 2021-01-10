@@ -1,4 +1,4 @@
-Hi Internet. I am Williamjiamin. I am A Computer Scientist/Quantitative Analyst/CFA/FRM/CPA/CIA/CCSA/. I used to be a investment banker but soon get bored of "the old and sluggish financal system".Then I worked as a public fund manager with AUM 3 billion.Now I manage a private fund for my family&friends.<br>
+Hi Internet. I am Williamjiamin. I am A Computer Scientist/Quantitative Analyst/CFA/FRM/CPA/CIA/CCSA/. I used to be a investment banker but soon get bored of "the old and sluggish financal system".Then I worked as a public fund manager with AUM 3 billion.Now I worked as a consultant and manage a private fund for my family&friends.<br>
 In leisure time, I share interesting technology & finance project online. I also do a little bit of venture capital investing to help young people get away from 996 and actually create somthing interesting. I am a Open source and Technology Evangelist and Chief Education Officer of LEXUEOUDE Inc.<br>
 ### Welcome to lexueoude.com. 👋 <br>
 
