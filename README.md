@@ -3,7 +3,7 @@
 ### I used to be a investment banker but soon get bored of "the old and sluggish financal system".<br>
 ### Then I worked as a public fund manager with AUM 3 billion.<br>
 ### Now I manage a private fund for my family&friends.<br>
-### I also do a little bit of venture capital investing to help young people get away from 996 and actually create somthing interesting. <br>
+### In leisure time, I share interesting technology &finance project online. I also do a little bit of venture capital investing to help young people get away from 996 and actually create somthing interesting. <br>
 ### I am a Open source and Technology Evangelist and Chief Education Officer of LEXUEOUDE Inc.
 ### Welcome to lexueoude.com. 👋 <br>
 
