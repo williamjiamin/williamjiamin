@@ -54,6 +54,10 @@ In leisure time, I share interesting technology & finance project online. I also
 [6.安卓入门](https://github.com/williamjiamin/Andriod_Dev_Intro)<br>
 [7.安卓项目](https://github.com/williamjiamin/Android_Test_Bank)<br>
 
+###安卓开发
+[1.安卓开发环境](https://github.com/williamjiamin/Android_Dev_Intro_1_Android_Studio)<br>
+[2.安卓生命周期](https://github.com/williamjiamin/Android_Dev_Intro_2_LifeCycleEvent)<br>
+
 ### C语言入门
 [点我跳转【C语言入门】方向【视频】附赠了部分C++入门内容，已更新200节课+还在持续更新ing](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000627054&courseId=1209145830&_trace_c_p_k2_=30a223c09d7c4666b5ac4b747292e6bf) <br>
 配套代码、笔记开源：<br>
@@ -64,6 +68,7 @@ In leisure time, I share interesting technology & finance project online. I also
 [点我跳转【JavaScript入门】方向【视频】已更新20节课+还在持续更新ing](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000627054&courseId=1210074273&_trace_c_p_k2_=6f8e266fdecf48efa0951b0dc2502339) <br>
 配套代码、笔记开源：<br>
 [1.JavaScript零基础入门](https://github.com/williamjiamin/JS_Quick_Intro)<br>
+[2.JavaScript练手项目Web字典](https://github.com/williamjiamin/JS_Dict)<br>
 
 
 ### C++ 封神之路
