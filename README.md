@@ -54,9 +54,14 @@ In leisure time, I share interesting technology & finance project online. I also
 [6.安卓入门](https://github.com/williamjiamin/Andriod_Dev_Intro)<br>
 [7.安卓项目](https://github.com/williamjiamin/Android_Test_Bank)<br>
 
+
 ###安卓开发
 [1.安卓开发环境](https://github.com/williamjiamin/Android_Dev_Intro_1_Android_Studio)<br>
 [2.安卓生命周期](https://github.com/williamjiamin/Android_Dev_Intro_2_LifeCycleEvent)<br>
+
+###kotlin+安卓开发
+[1.helloworld](https://github.com/williamjiamin/kotlin_android_app_intro_1_helloworld)<br>
+[2.helloworld](https://github.com/williamjiamin/kotlin_android_app_intro_1_helloworld)<br>
 
 ### C语言入门
 [点我跳转【C语言入门】方向【视频】附赠了部分C++入门内容，已更新200节课+还在持续更新ing](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000627054&courseId=1209145830&_trace_c_p_k2_=30a223c09d7c4666b5ac4b747292e6bf) <br>
