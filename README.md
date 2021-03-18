@@ -2,7 +2,7 @@ Hi Internet. I am Williamjiamin. I am A Computer Scientist/Quantitative Analyst/
 In leisure time, I share interesting technology & finance project online. I also do a little bit of venture capital investing to help young people get away from 996 and actually create somthing interesting. I am a Open source and Technology Evangelist and Chief Education Officer of LEXUEOUDE Inc.<br>
 ### Welcome to lexueoude.com. 👋 <br>
 
-### Hi， 你好，我是乐学偶得的William，欢迎来到这里。这里我和一群有趣的教研小伙伴会与大家分享课堂的笔记、代码、前沿项目、好玩儿的内容。更多内容也欢迎关注公众号1：乐学偶得 2:乐学FinTech 。也欢迎来乐学偶得玩： lexueoude.com👋<br>
+### Hi， 你好，我是乐学偶得的William，欢迎来到这里。这里我和一群有趣的教研小伙伴会与大家分享课堂的笔记、代码、前沿项目、好玩儿的内容。更多内容也欢迎关注公众号1：乐学偶得 2:乐学偶得服务号（可以收到订阅的课程更新推送、领取福利券与免费参加定期直播活动） 。也欢迎来乐学偶得玩： lexueoude.com👋<br>
 
 经过了五六年的积累，我们已经开源了一百多个课程的笔记与代码。会不断更新好的学习路径与笔记、代码分享给大家～欢迎🌟star、fork、follow三连～～～<br>
 
