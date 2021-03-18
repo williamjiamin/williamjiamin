@@ -55,11 +55,13 @@ In leisure time, I share interesting technology & finance project online. I also
 [7.安卓项目](https://github.com/williamjiamin/Android_Test_Bank)<br>
 
 
-###安卓开发
+### 安卓开发
+
 [1.安卓开发环境](https://github.com/williamjiamin/Android_Dev_Intro_1_Android_Studio)<br>
 [2.安卓生命周期](https://github.com/williamjiamin/Android_Dev_Intro_2_LifeCycleEvent)<br>
 
-###kotlin+安卓开发
+### kotlin+安卓开发
+
 [1.helloworld](https://github.com/williamjiamin/kotlin_android_app_intro_1_helloworld)<br>
 [2.helloworld](https://github.com/williamjiamin/kotlin_android_app_intro_1_helloworld)<br>
 
@@ -78,7 +80,21 @@ In leisure time, I share interesting technology & finance project online. I also
 
 ### C++ 封神之路
 
-内容非常多，这边命名规范是【数字】.CPP_Intro_【各个课程章节名称】，因为内容极其多，目前是分repo上传的，整体完结后会汇总一个大repo并更新到这里。
+[1.CPP_Intro_HelloWorld](https://github.com/williamjiamin/1.CPP_Intro_HelloWorld)<br>
+[2.CPP_Intro_OutputText](https://github.com/williamjiamin/2.CPP_Intro_OutputText)<br>
+[3.CPP_Intro_Variable](https://github.com/williamjiamin/3.CPP_Intro_Variable)<br>
+[CPP_Finance_00.mortagage_calculator](https://github.com/williamjiamin/CPP_Finance_00.mortagage_calculator)<br>
+[4.CPP_Intro_Get_Input](https://github.com/williamjiamin/4.CPP_Intro_Get_Input)<br>
+[CPP_Finance_01.mortagage_calculator_IO](https://github.com/williamjiamin/CPP_Finance_01.mortagage_calculator_IO)<br>
+[5.CPP_Intro_Integer_Types_And_Limits](https://github.com/williamjiamin/5.CPP_Intro_Integer_Types_And_Limits)<br>
+[6.CPP_Intro_Floating_Point_Types](https://github.com/williamjiamin/6.CPP_Intro_Floating_Point_Types)<br>
+[7.CPP_Intro_Other_Types](https://github.com/williamjiamin/7.CPP_Intro_Other_Types)<br>
+[8.CPP_Intro_If](https://github.com/williamjiamin/8.CPP_Intro_If)<br>
+[9.CPP_Intro_else](https://github.com/williamjiamin/9.CPP_Intro_else)<br>
+[10.CPP_Intro_elseif](https://github.com/williamjiamin/10.CPP_Intro_elseif)<br>
+[11.CPP_Intro_Common_Mistake](https://github.com/williamjiamin/11.CPP_Intro_Common_Mistake)<br>
+
+
 
 
 ### 量化投资系列（FinTech/Q_Quant/P_Quant）
