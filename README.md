@@ -122,18 +122,18 @@ In leisure time, I share interesting technology & finance project online. I also
 [Pure Python实现数据科学与机器学习经典算法与经典实战案例笔记、板书、代码、数据源](https://github.com/williamjiamin/Pure_Python_for_DS_ML)<br>
 [0.统计学知识补充](https://github.com/williamjiamin/Pure_Python_for_DS_ML/tree/master/0.%E7%BB%9F%E8%AE%A1%E5%AD%A6%E7%9F%A5%E8%AF%86%E8%A1%A5%E5%85%85)<br>
 [1.寻找及读取数据](https://github.com/williamjiamin/Pure_Python_for_DS_ML/tree/master/1.%E5%AF%BB%E6%89%BE%E5%8F%8A%E8%AF%BB%E5%8F%96%E6%95%B0%E6%8D%AE)<br>
-[]()<br>
+[2.数据预处理](https://github.com/williamjiamin/Pure_Python_for_DS_ML/tree/master/2.%E6%95%B0%E6%8D%AE%E9%A2%84%E5%A4%84%E7%90%86)<br>
 [3.重抽样方法](https://github.com/williamjiamin/Pure_Python_for_DS_ML/tree/master/3.%E9%87%8D%E6%8A%BD%E6%A0%B7%E6%96%B9%E6%B3%95)<br>
 [4.判断准确性](https://github.com/williamjiamin/Pure_Python_for_DS_ML/tree/master/4.%E5%88%A4%E6%96%AD%E5%87%86%E7%A1%AE%E6%80%A7)<br>
 [5.混淆矩阵](https://github.com/williamjiamin/Pure_Python_for_DS_ML/tree/master/5.%E6%B7%B7%E6%B7%86%E7%9F%A9%E9%98%B5)<br>
-[]()<br>
+[6.平均绝对误差与均方根误差](https://github.com/williamjiamin/Pure_Python_for_DS_ML/tree/master/6.%E5%B9%B3%E5%9D%87%E7%BB%9D%E5%AF%B9%E8%AF%AF%E5%B7%AE%E4%B8%8E%E5%9D%87%E6%96%B9%E6%A0%B9%E8%AF%AF%E5%B7%AE)<br>
 [7.基准模型的建立](https://github.com/williamjiamin/Pure_Python_for_DS_ML/tree/master/7.%E5%9F%BA%E5%87%86%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%BB%BA%E7%AB%8B)<br>
-[]()<br>
+[8.线性回归](https://github.com/williamjiamin/Pure_Python_for_DS_ML/tree/master/8.%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92)<br>
 [9.随机梯度下降](https://github.com/williamjiamin/Pure_Python_for_DS_ML/tree/master/9.%E9%9A%8F%E6%9C%BA%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D)<br>
 [10.Logistic回归](https://github.com/williamjiamin/Pure_Python_for_DS_ML/tree/master/10.Logistic%E5%9B%9E%E5%BD%92)<br>
 [11.感知器(Perceptron)](https://github.com/williamjiamin/Pure_Python_for_DS_ML/tree/master/11.%E6%84%9F%E7%9F%A5%E5%99%A8(Perceptron))<br>
 [12.分类与决策树(Classification_Decision_Tree)](https://github.com/williamjiamin/Pure_Python_for_DS_ML/tree/master/12.%E5%88%86%E7%B1%BB%E4%B8%8E%E5%86%B3%E7%AD%96%E6%A0%91(Classification_Decision_Tree))<br>
-[]()<br>
+[13.朴素贝贝叶斯(NaiveBayes)](https://github.com/williamjiamin/Pure_Python_for_DS_ML/tree/master/13.%E6%9C%B4%E7%B4%A0%E8%B4%9D%E8%B4%9D%E5%8F%B6%E6%96%AF(NaiveBayes))<br>
 [14.KNN算法(K-Nearest_Neighbor)](https://github.com/williamjiamin/Pure_Python_for_DS_ML/tree/master/14.KNN%E7%AE%97%E6%B3%95(K-Nearest_Neighbor))<br>
 [15.学习向量量化(Learning_Vector_Quantization)](https://github.com/williamjiamin/Pure_Python_for_DS_ML/tree/master/15.%E5%AD%A6%E4%B9%A0%E5%90%91%E9%87%8F%E9%87%8F%E5%8C%96(Learning_Vector_Quantization))<br>
 [16.人工神经网络与反向传播（Artificial_Neural_Network_Back-Propagation）](https://github.com/williamjiamin/Pure_Python_for_DS_ML/tree/master/16.%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%EF%BC%88Artificial_Neural_Network_Back-Propagation%EF%BC%89)<br>
