@@ -64,6 +64,10 @@ In leisure time, I share interesting technology & finance project online. I also
 
 [1.helloworld](https://github.com/williamjiamin/kotlin_android_app_intro_1_helloworld)<br>
 [2.helloworld](https://github.com/williamjiamin/kotlin_android_app_intro_1_helloworld)<br>
+[3_kotlin_lang_intro](https://github.com/williamjiamin/kotlin_android_app_intro_3_kotlin_lang_intro)<br>
+[4_kotlin_control_flow](https://github.com/williamjiamin/kotlin_android_app_intro_4_kotlin_control_flow)<br>
+[5_kotlin_simple_calculator_app](https://github.com/williamjiamin/kotlin_android_app_intro_5_kotlin_simple_calculator_app)<br>
+
 
 ### C语言入门
 [点我跳转【C语言入门】方向【视频】附赠了部分C++入门内容，已更新200节课+还在持续更新ing](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000627054&courseId=1209145830&_trace_c_p_k2_=30a223c09d7c4666b5ac4b747292e6bf) <br>
