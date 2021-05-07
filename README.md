@@ -68,6 +68,11 @@ In leisure time, I share interesting technology & finance project online. I also
 [4_kotlin_control_flow](https://github.com/williamjiamin/kotlin_android_app_intro_4_kotlin_control_flow)<br>
 [5_kotlin_simple_calculator_app](https://github.com/williamjiamin/kotlin_android_app_intro_5_kotlin_simple_calculator_app)<br>
 [6_kotlin_simple_guessNum_app](https://github.com/williamjiamin/kotlin_android_app_intro_6_kotlin_simple_guessNum_app)<br>
+[7_kotlin_BMI_app](https://github.com/williamjiamin/kotlin_android_app_intro_7_kotlin_BMI_app)<br>
+[8_kotlin_music_app](https://github.com/williamjiamin/kotlin_android_app_intro_8_kotlin_music_app)<br>
+[9_kotlin_about_app](https://github.com/williamjiamin/kotlin_android_app_intro_9_kotlin_about_app)<br>
+[10_advance_kotlin](https://github.com/williamjiamin/kotlin_android_app_intro_10_advance_kotlin)<br>
+[11_kotlin_dict_app](https://github.com/williamjiamin/kotlin_android_app_intro_11_kotlin_dict_app)<br>
 
 
 ### C语言入门
