@@ -124,10 +124,13 @@ In leisure time, I share interesting technology & finance project online. I also
 配套代码、笔记开源：<br>
 [1.VBA系统化入门到进阶（内含有常用小脚本）](https://github.com/williamjiamin/VBA)<br>
 
-[国际公司投资财务处理）](https://github.com/williamjiamin/Financial_Modeling/tree/main/%E5%9B%BD%E9%99%85%E5%85%AC%E5%8F%B8%E6%8A%95%E8%B5%84%E8%B4%A2%E5%8A%A1%E5%A4%84%E7%90%86)<br>
-[外币会计）](https://github.com/williamjiamin/Financial_Modeling/tree/main/%E5%A4%96%E5%B8%81%E4%BC%9A%E8%AE%A1)<br>
-[财务建模）](https://github.com/williamjiamin/Financial_Modeling/tree/main/%E8%B4%A2%E5%8A%A1%E5%BB%BA%E6%A8%A1)<br>
-[金融建模）](https://github.com/williamjiamin/Financial_Modeling/tree/main/%E9%87%91%E8%9E%8D%E5%BB%BA%E6%A8%A1)<br>
+[国际公司投资财务处理](https://github.com/williamjiamin/Financial_Modeling/tree/main/%E5%9B%BD%E9%99%85%E5%85%AC%E5%8F%B8%E6%8A%95%E8%B5%84%E8%B4%A2%E5%8A%A1%E5%A4%84%E7%90%86)<br>
+[外币会计](https://github.com/williamjiamin/Financial_Modeling/tree/main/%E5%A4%96%E5%B8%81%E4%BC%9A%E8%AE%A1)<br>
+[财务建模](https://github.com/williamjiamin/Financial_Modeling/tree/main/%E8%B4%A2%E5%8A%A1%E5%BB%BA%E6%A8%A1)<br>
+[金融建模](https://github.com/williamjiamin/Financial_Modeling/tree/main/%E9%87%91%E8%9E%8D%E5%BB%BA%E6%A8%A1)<br>
+[VC与PE股权](https://github.com/williamjiamin/Financial_Modeling/tree/main/VC%E4%B8%8EPE%E8%82%A1%E6%9D%83)<br>
+[房地产投资与估值](https://github.com/williamjiamin/Financial_Modeling/tree/main/%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%8A%95%E8%B5%84%E4%B8%8E%E4%BC%B0%E5%80%BC)<br>
+[大宗商品](https://github.com/williamjiamin/Financial_Modeling/tree/main/%E5%A4%A7%E5%AE%97%E5%95%86%E5%93%81)<br>
 
 
 ### Pure Python机器学习与数据科学算法与实战
