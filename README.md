@@ -181,6 +181,8 @@ In leisure time, I share interesting technology & finance project online. I also
 [2.Bash自动化脚本系统训练](https://github.com/williamjiamin/BASH_Deep_Dive)<br>
 [3.密码学](https://github.com/williamjiamin/Cryptography)<br>
 
+[Hacking基础干货](https://github.com/williamjiamin/Ethical_Hacking_Intro)
+
 
 
 ### 产品经历/设计/后现代互联网全流程实战
