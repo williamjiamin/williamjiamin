@@ -172,6 +172,8 @@ In leisure time, I share interesting technology & finance project online. I also
 [1.从零搭建3D冒险游戏](https://github.com/williamjiamin/CS_Game_Dev_Edu)<br>
 [2.从零搭建RTS即时战略游戏](https://github.com/williamjiamin/RTS_Game_Dev)<br>
 
+[3D建模，笔记与内容正在更新ing](https://github.com/williamjiamin/blender_intro)<br>
+
 ### 运维/服务器硬化/信息安全/白帽黑客/互联网攻防/
 
 [点我跳转【Linux与红帽工程师、架构师】方向【视频】，已更新【500】节课+还在持续更新ing](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000627054&courseId=1208981820&_trace_c_p_k2_=bfe190f589ed427dac045f6a4a176816) <br>
