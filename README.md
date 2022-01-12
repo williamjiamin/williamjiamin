@@ -14,6 +14,12 @@ In leisure time, I share interesting technology & finance project online. I also
 怕什么真理无穷，进一寸有一寸的欢喜<br>
 乐学知识，偶得美好！共勉！<br>
 
+### 全栈开发大师课(全英文版)（Web_Dev_MasterClass, Full English Version，lecturer is also Williamjiamin）
+[For international student or Chinese student who aspire to work in top-notch IT firms in the world. This course is a FULL ENGLISH COURSE taught by Williamjiamin]
+[1.Basic_HTML_CSS](https://github.com/williamjiamin/Web_Dev_MasterClass/tree/master/1.Basic_HTML_CSS)
+[2.Project_Your_Personal_Website](https://github.com/williamjiamin/Web_Dev_MasterClass/tree/master/2.Project_Your_Personal_Website)
+
+
 ### Python零基础入门与6大热门应用方向（量化、自动办公、数据科学与机器学习、全栈开发、计算机视觉、算法等）
 
 [【特别推荐】点我跳转【Python零基础入门到6大热门应用方向】系统化【视频】，已更新4000节课+还在持续更新ing](https://study.163.com/series/1202843603.htm) <br>
