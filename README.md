@@ -7,7 +7,7 @@ In leisure time, I share interesting technology & finance project online. I also
 [乐学偶得官网：lexueoude.com](https://www.lexueoude.com)
 
 
-经过了七八年的积累，我们已经开源了一百多个课程的笔记与代码。会不断更新好的学习路径与笔记、代码分享给大家～欢迎🌟star、fork、follow三连～～～<br>
+经过了近十年的积累，我们已经开源了一百多个课程的笔记与代码。会不断更新好的学习路径与笔记、代码分享给大家～欢迎🌟star、fork、follow三连～～～<br>
 
 大致的学习路径、体系、作业、笔记、源码与各种项目如下：<br>
 
@@ -15,9 +15,9 @@ In leisure time, I share interesting technology & finance project online. I also
 乐学知识，偶得美好！共勉！<br>
 
 ### 全栈开发大师课(全英文版)（Web_Dev_MasterClass, Full English Version，lecturer is also Williamjiamin）
-[For international student or Chinese student who aspire to work in top-notch IT firms in the world. This course is a FULL ENGLISH COURSE taught by Williamjiamin]
-[1.Basic_HTML_CSS](https://github.com/williamjiamin/Web_Dev_MasterClass/tree/master/1.Basic_HTML_CSS)
-[2.Project_Your_Personal_Website](https://github.com/williamjiamin/Web_Dev_MasterClass/tree/master/2.Project_Your_Personal_Website)
+[For international student or Chinese student who aspire to work in top-notch IT firms in the world. This course is a FULL ENGLISH COURSE taught by Williamjiamin]<br>
+[1.Basic_HTML_CSS](https://github.com/williamjiamin/Web_Dev_MasterClass/tree/master/1.Basic_HTML_CSS)<br>
+[2.Project_Your_Personal_Website](https://github.com/williamjiamin/Web_Dev_MasterClass/tree/master/2.Project_Your_Personal_Website)<br>
 
 
 ### Python零基础入门与6大热门应用方向（量化、自动办公、数据科学与机器学习、全栈开发、计算机视觉、算法等）
