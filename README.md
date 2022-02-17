@@ -22,7 +22,7 @@ In leisure time, I share interesting technology & finance project online. I also
 
 ### Python零基础入门与6大热门应用方向（量化、自动办公、数据科学与机器学习、全栈开发、计算机视觉、算法等）
 
-[【特别推荐】点我跳转【Python零基础入门到6大热门应用方向】系统化【视频】，已更新4000节课+还在持续更新ing](https://study.163.com/series/1202843603.htm) <br>
+[【特别推荐】点我跳转【Python零基础入门到6大热门应用方向】系统化【视频】，已更新4000节课+还在持续更新ing](https://class.lexueoude.com/detail/p_5efc56933014c_Z7Mzyb8p/8) <br>
 配套代码、笔记开源：<br>
 [1.算法进阶练习阅读作业与笔记代码](https://github.com/williamjiamin/PythonAlgo)<br>
 [2.进阶概念练习作业与笔记代码](https://github.com/williamjiamin/AdvancePythonEdu)<br>
@@ -43,7 +43,7 @@ In leisure time, I share interesting technology & finance project online. I also
 
 ### Python全栈
 
-[点我跳转【Python全栈开发】方向【视频】，已更新800节课+还在持续更新ing](https://study.163.com/series/1202860601.htm) <br>
+[点我跳转【Python全栈开发】方向【视频】，已更新800节课+还在持续更新ing](https://class.lexueoude.com/detail/p_5efedd92e4b0b7422c677058/8) <br>
 配套代码、笔记开源：<br>
 [1.全栈入门](https://github.com/williamjiamin/Full_Stack_Intro)<br>
 [2.全栈flask框架项目](https://github.com/williamjiamin/Flask_Edu)<br>
@@ -53,7 +53,7 @@ In leisure time, I share interesting technology & finance project online. I also
 
 ### Java全栈
 
-[点我跳转【Java全栈开发】方向【视频】，已更新【1000】节课+还在持续更新ing](https://study.163.com/series/1202859602.htm) <br>
+[点我跳转【Java全栈开发】方向【视频】，已更新【1000】节课+还在持续更新ing](https://class.lexueoude.com/detail/p_5f03ef54e4b036f1c0cf1743/8) <br>
 配套代码、笔记开源：<br>
 [1.Java零基础入门](https://github.com/williamjiamin/Java_Intro)<br>
 [2.Java进阶概念](https://github.com/williamjiamin/AdvanceJavaEdu)<br>
@@ -85,13 +85,13 @@ In leisure time, I share interesting technology & finance project online. I also
 
 
 ### C语言入门
-[点我跳转【C语言入门】方向【视频】附赠了部分C++入门内容，已更新200节课+还在持续更新ing](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000627054&courseId=1209145830&_trace_c_p_k2_=30a223c09d7c4666b5ac4b747292e6bf) <br>
+[点我跳转【C语言入门】方向【视频】附赠了部分C++入门内容，已更新200节课+还在持续更新ing](https://class.lexueoude.com/detail/p_60758013e4b09134c987e171/6) <br>
 配套代码、笔记开源：<br>
 [1.C语言零基础入门](https://github.com/williamjiamin/C_Intro)<br>
 
 ### JavaScript入门
 
-[点我跳转【JavaScript入门】方向【视频】已更新20节课+还在持续更新ing](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000627054&courseId=1210074273&_trace_c_p_k2_=6f8e266fdecf48efa0951b0dc2502339) <br>
+[点我跳转【JavaScript入门】方向【视频】已更新20节课+还在持续更新ing](https://class.lexueoude.com/detail/p_5f04013fe4b036f1c0cf1b98/6) <br>
 配套代码、笔记开源：<br>
 [1.JavaScript零基础入门](https://github.com/williamjiamin/JS_Quick_Intro)<br>
 [2.JavaScript练手项目Web字典](https://github.com/williamjiamin/JS_Dict)<br>
@@ -118,8 +118,8 @@ In leisure time, I share interesting technology & finance project online. I also
 
 ### 量化投资系列（FinTech/Q_Quant/P_Quant）
 
-[点我跳转【FinTech金融科技（这部分为系统性介绍金融市场、各类金融产品、经济与财经等基础知识与Python在金融中的入门应用为主，偏量化金融应用）】方向【视频】，已更新【400】节课+还在持续更新ing](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000627054&courseId=1209331955&_trace_c_p_k2_=be7788311f364bb1a97bf56e4db37de0) <br>
-[点我跳转【Python量化（这部分为量化技术指标分析与自定义讲解、量化策略构建等为主，偏资本市场的量化应用）】方向【视频】，已更新【300】节课+还在持续更新ing](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000627054&courseId=1209404813&_trace_c_p_k2_=637a8af5dbc7482e9fdc498ac3350562) <br>
+[点我跳转【FinTech金融科技（这部分为系统性介绍金融市场、各类金融产品、经济与财经等基础知识与Python在金融中的入门应用为主，偏量化金融应用）】方向【视频】，已更新【400】节课+还在持续更新ing](https://class.lexueoude.com/detail/p_5efee94be4b036f1c0ce4492/8) <br>
+[点我跳转【Python量化（这部分为量化技术指标分析与自定义讲解、量化策略构建等为主，偏资本市场的量化应用）】方向【视频】，已更新【300】节课+还在持续更新ing](https://class.lexueoude.com/detail/p_5f0575bfe4b036f1c0cf7880/8) <br>
 配套代码、笔记开源：<br>
 [1.FinTech金融科技入门](https://github.com/williamjiamin/LXOD_FinTech_Intro)<br>
 [2.量化交易入门](https://github.com/williamjiamin/Quant_Intro)<br>
@@ -129,7 +129,7 @@ In leisure time, I share interesting technology & finance project online. I also
 
 ### 投行/财务建模/VBA自动化等二次开发
 
-[点我跳转【实用Excel操作与VBA财务金融建模】方向【视频】，已更新【300】节课+还在持续更新ing](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000627054&courseId=1006464019&_trace_c_p_k2_=e46f13c7492f41fb95190e525e82da49)<br>
+[点我跳转【实用Excel操作与VBA财务金融建模】方向【视频】，已更新【300】节课+还在持续更新ing](https://class.lexueoude.com/detail/p_5fea8fe8e4b0231ba88f86bb/8)<br>
 配套代码、笔记开源：<br>
 [1.VBA系统化入门到进阶（内含有常用小脚本）](https://github.com/williamjiamin/VBA)<br>
 
@@ -144,7 +144,7 @@ In leisure time, I share interesting technology & finance project online. I also
 
 ### Pure Python机器学习与数据科学算法与实战
 
-[点我跳转【数据科学与机器学习】方向【视频】，已更新【500】节课+还在持续更新ing](https://study.163.com/course/courseMain.htm?courseId=1209346808&_trace_c_p_k2_=690cbd76a8e1421f8f8fabf706ee1501)<br>
+[点我跳转【数据科学与机器学习】方向【视频】，已更新【500】节课+还在持续更新ing](https://class.lexueoude.com/detail/p_5f07efa3e4b061de7cb5b274/8)<br>
 配套代码、笔记开源：<br>
 [Pure Python实现数据科学与机器学习经典算法与经典实战案例笔记、板书、代码、数据源](https://github.com/williamjiamin/Pure_Python_for_DS_ML)<br>
 [0.统计学知识补充](https://github.com/williamjiamin/Pure_Python_for_DS_ML/tree/master/0.%E7%BB%9F%E8%AE%A1%E5%AD%A6%E7%9F%A5%E8%AF%86%E8%A1%A5%E5%85%85)<br>
@@ -166,7 +166,7 @@ In leisure time, I share interesting technology & finance project online. I also
 [16.人工神经网络与反向传播（Artificial_Neural_Network_Back-Propagation）](https://github.com/williamjiamin/Pure_Python_for_DS_ML/tree/master/16.%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%EF%BC%88Artificial_Neural_Network_Back-Propagation%EF%BC%89)<br>
 
 ### 计算机视觉
-[点我跳转【计算机视觉】方向【视频】，已更新【300】节课+还在持续更新ing](https://github.com/williamjiamin/Pure_Python_for_DS_ML) <br>
+[点我跳转【计算机视觉】方向【视频】，已更新【300】节课+还在持续更新ing](https://class.lexueoude.com/detail/p_5f1154ece4b0ee0b88732c6f/8) <br>
 配套代码、笔记开源：<br>
 [1.计算机视觉](https://github.com/williamjiamin/Computer_Vision)<br>
 [2.字符流转化小项目](https://github.com/williamjiamin/CVFunny_Video2Str)<br>
@@ -182,8 +182,8 @@ In leisure time, I share interesting technology & finance project online. I also
 
 ### 运维/服务器硬化/信息安全/白帽黑客/互联网攻防/
 
-[点我跳转【Linux与红帽工程师、架构师】方向【视频】，已更新【500】节课+还在持续更新ing](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000627054&courseId=1208981820&_trace_c_p_k2_=bfe190f589ed427dac045f6a4a176816) <br>
-[点我跳转【信息安全工程师、白帽黑客】方向【视频】，已更新【300】节课+还在持续更新ing.注意：新手强烈建议从上一个Linux基础开始学，非常不建议无基础直接学习这部分内容。](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000627054&courseId=1209044802&_trace_c_p_k2_=dbc626c6b1c5450798935701a2c34732) <br>
+[点我跳转【Linux与红帽工程师、架构师】方向【视频】，已更新【500】节课+还在持续更新ing](https://class.lexueoude.com/detail/p_61050508e4b0cce271b838a5/8) <br>
+[点我跳转【信息安全工程师、白帽黑客】方向【视频】，已更新【300】节课+还在持续更新ing.注意：新手强烈建议从上一个Linux基础开始学，非常不建议无基础直接学习这部分内容。](https://class.lexueoude.com/detail/p_61050508e4b0cce271b838a5/8) <br>
 配套代码、笔记开源：<br>
 [1.信息安全工程师系列](https://github.com/williamjiamin/InfoSec_Notes)<br>
 [2.Bash自动化脚本系统训练](https://github.com/williamjiamin/BASH_Deep_Dive)<br>
@@ -195,7 +195,7 @@ In leisure time, I share interesting technology & finance project online. I also
 
 ### 产品经历/设计/后现代互联网全流程实战
 
-[点我跳转【产品经理、涉及、后现代互联网产品全流程】方向【视频】，已更新【700】节课+还在持续更新ing.注意：产品与设计部分为入门内容，全流程实战建议有一定安卓开发与ios开发基础。](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000627054&courseId=1209044802&_trace_c_p_k2_=dbc626c6b1c5450798935701a2c34732) <br>
+[点我跳转【产品经理、涉及、后现代互联网产品全流程】方向【视频】，已更新【700】节课+还在持续更新ing.注意：产品与设计部分为入门内容，全流程实战建议有一定安卓开发与ios开发基础。](https://class.lexueoude.com/detail/p_5fe704a0e4b0231ba88f1fb0/8) <br>
 配套代码、笔记开源：<br>
 [1.Axure原型与课堂使用素材、元件](https://github.com/williamjiamin/some_good_stuff_of_Axure)<br>
 
