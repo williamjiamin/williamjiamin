@@ -1,15 +1,15 @@
-# UPDATE1 IMPORTANT: OUR ONLY OFFICIAL WEBSITE IS lexueoude.com 。 PLEASE DON'T BUY ANY COURSE OR SERVICE FROM OTHER PLATFORM OR PIRATE VERSION.
-# 各位支持乐学偶得的朋友：乐学偶得课堂的唯一官网是([class.lexueoude.com](https://class.lexueoude.com))，
-# 为了保障您的权益，请直接到我们官网购买，**不要通过其他三方平台** 或者 **盗版渠道** 购买。感谢您的支持与理解！
+## UPDATE1 IMPORTANT: OUR ONLY OFFICIAL WEBSITE IS lexueoude.com 。 PLEASE DON'T BUY ANY COURSE OR SERVICE FROM OTHER PLATFORM OR PIRATE VERSION.
+## 各位支持乐学偶得的朋友：乐学偶得课堂的唯一官网是([class.lexueoude.com](https://class.lexueoude.com))，
+## 为了保障您的权益，请直接到我们官网购买，**不要通过其他三方平台** 或者 **盗版渠道** 购买。感谢您的支持与理解！
 
-# UPDATE2: WE ARE CURRENTLY BULIDING OUR OWN DATABASE AND SOON WILL PROVIDE API FOR YOU GUYS.
-# 更新： 乐学偶得自主开发的数据服务即将上线，可以配合您数据科学与金融相关内容进行练习，也可以直接使用我们的API数据接口。
+## UPDATE2: WE ARE CURRENTLY BULIDING OUR OWN DATABASE AND SOON WILL PROVIDE API FOR YOU GUYS.
+## 更新： 乐学偶得自主开发的数据服务即将上线，可以配合您数据科学与金融相关内容进行练习，也可以直接使用我们的API数据接口。
 
-# UPDATE3: lexueoude.vip podcast subscription is online!!! AND IT IS FREE! [Subscription Link](https://appIgsDUGka5944.h5.xiaoeknow.com/evaluation_wechat/customize_form/submit_info/form_JQFPxSEzKVIegb) ~ 
-# 更新： 乐学偶得VIP国际双语订阅podcast上线了，[点击免费订阅 ](https://appIgsDUGka5944.h5.xiaoeknow.com/evaluation_wechat/customize_form/submit_info/form_JQFPxSEzKVIegb)
+## UPDATE3: lexueoude.vip podcast subscription is online!!! AND IT IS FREE! [Subscription Link](https://appIgsDUGka5944.h5.xiaoeknow.com/evaluation_wechat/customize_form/submit_info/form_JQFPxSEzKVIegb) ~ 
+## 更新： 乐学偶得VIP国际双语订阅podcast上线了，[点击免费订阅 ](https://appIgsDUGka5944.h5.xiaoeknow.com/evaluation_wechat/customize_form/submit_info/form_JQFPxSEzKVIegb)
 
-# UPDATE4: Currently on lexueoude, we have updated over 8093 lessons (until 2021.12.30)，If you are experiencing issues, please email us at myLXOD@lexueoude.vip
-# 更新：截止2021年底，乐学偶得知识库共更新了8093节课程，更多内容正在持续更新ing.（因为工作量巨大，如果遇到您遇到您的课程目前还没即时上传或更新代码库、素材等未更新的情况，请私信乐学偶得小管家微信lxodxgj 会提前排期剪辑与上传您需要的内容，感谢理解与配合）
+## UPDATE4: Currently on lexueoude, we have updated over 8093 lessons (until 2021.12.30)，If you are experiencing issues, please email us at myLXOD@lexueoude.vip
+## 更新：截止2021年底，乐学偶得知识库共更新了8093节课程，更多内容正在持续更新ing.（因为工作量巨大，如果您遇到您的课程目前还没即时上传或更新代码库、素材等未更新的情况，请私信乐学偶得小管家微信lxodxgj 会提前排期剪辑与上传您需要的内容，感谢理解与配合）
 
 ### Hi Internet. I am Williamjiamin. I am A Computer Scientist/Quantitative Analyst/CFA/FRM/CPA/CIA/CCSA/. I used to be a investment banker but soon get bored of "the old and sluggish financal system".Then I worked as a public fund manager with AUM 3 billion.Now,I am currently working as a Private Consultant and manage a private fund for my family&friends.<br>
 In leisure time, I share interesting technology & finance project online. I also do a little bit of venture capital investing to help young people get away from 996 and actually create somthing interesting. I am a Open source and Technology Evangelist and Chief Education Officer of LEXUEOUDE Inc.<br>
