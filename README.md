@@ -1,15 +1,15 @@
-### UPDATE1 IMPORTANT: OUR ONLY OFFICIAL WEBSITE IS lexueoude.com 。 PLEASE DON'T BUY ANY COURSE OR SERVICE FROM OTHER PLATFORM OR PIRATE VERSION.
-### 各位支持乐学偶得的朋友：乐学偶得课堂的唯一官网是(class.lexueoude.com)，
-### 为了保障您的权益，请直接到我们官网购买，不要通过其他三方平台或者盗版渠道购买。感谢您的支持与理解！
+# UPDATE1 IMPORTANT: OUR ONLY OFFICIAL WEBSITE IS lexueoude.com 。 PLEASE DON'T BUY ANY COURSE OR SERVICE FROM OTHER PLATFORM OR PIRATE VERSION.
+# 各位支持乐学偶得的朋友：乐学偶得课堂的唯一官网是([class.lexueoude.com](https://class.lexueoude.com))，
+# 为了保障您的权益，请直接到我们官网购买，**不要通过其他三方平台** 或者 **盗版渠道** 购买。感谢您的支持与理解！
 
-### UPDATE2: WE ARE CURRENTLY BULIDING OUR OWN DATABASE AND SOON WILL PROVIDE API FOR YOU GUYS.
-### 更新： 乐学偶得自主开发的数据服务即将上线，可以配合您数据科学与金融相关内容进行练习，也可以直接使用我们的API数据接口。
+# UPDATE2: WE ARE CURRENTLY BULIDING OUR OWN DATABASE AND SOON WILL PROVIDE API FOR YOU GUYS.
+# 更新： 乐学偶得自主开发的数据服务即将上线，可以配合您数据科学与金融相关内容进行练习，也可以直接使用我们的API数据接口。
 
-### UPDATE3: lexueoude.vip podcast subscription is online!!! AND IT IS FREE! [Subscription Link](https://appIgsDUGka5944.h5.xiaoeknow.com/evaluation_wechat/customize_form/submit_info/form_JQFPxSEzKVIegb) ~ 
-### 更新： 乐学偶得VIP国际双语订阅podcast上线了，[点击免费订阅 ](https://appIgsDUGka5944.h5.xiaoeknow.com/evaluation_wechat/customize_form/submit_info/form_JQFPxSEzKVIegb)
+# UPDATE3: lexueoude.vip podcast subscription is online!!! AND IT IS FREE! [Subscription Link](https://appIgsDUGka5944.h5.xiaoeknow.com/evaluation_wechat/customize_form/submit_info/form_JQFPxSEzKVIegb) ~ 
+# 更新： 乐学偶得VIP国际双语订阅podcast上线了，[点击免费订阅 ](https://appIgsDUGka5944.h5.xiaoeknow.com/evaluation_wechat/customize_form/submit_info/form_JQFPxSEzKVIegb)
 
-### UPDATE4: Currently on lexueoude, we have updated over 8093 lessons (until 2021.12.30)，If you are experiencing issues, please email us at myLXOD@lexueoude.vip
-### 更新：截止2021年底，乐学偶得知识库共更新了8093节课程，更多内容正在持续更新ing.（因为工作量巨大，如果遇到您遇到您的课程目前还没即时上传或更新代码库、素材等未更新的情况，请私信乐学偶得小管家微信lxodxgj 会提前排期剪辑与上传您需要的内容，感谢理解与配合）
+# UPDATE4: Currently on lexueoude, we have updated over 8093 lessons (until 2021.12.30)，If you are experiencing issues, please email us at myLXOD@lexueoude.vip
+# 更新：截止2021年底，乐学偶得知识库共更新了8093节课程，更多内容正在持续更新ing.（因为工作量巨大，如果遇到您遇到您的课程目前还没即时上传或更新代码库、素材等未更新的情况，请私信乐学偶得小管家微信lxodxgj 会提前排期剪辑与上传您需要的内容，感谢理解与配合）
 
 ### Hi Internet. I am Williamjiamin. I am A Computer Scientist/Quantitative Analyst/CFA/FRM/CPA/CIA/CCSA/. I used to be a investment banker but soon get bored of "the old and sluggish financal system".Then I worked as a public fund manager with AUM 3 billion.Now,I am currently working as a Private Consultant and manage a private fund for my family&friends.<br>
 In leisure time, I share interesting technology & finance project online. I also do a little bit of venture capital investing to help young people get away from 996 and actually create somthing interesting. I am a Open source and Technology Evangelist and Chief Education Officer of LEXUEOUDE Inc.<br>
@@ -21,15 +21,15 @@ In leisure time, I share interesting technology & finance project online. I also
 
 
 
-经过了十几年的积累，我们已经开源了一百多个课程的笔记与代码。会不断更新好的学习路径与笔记、代码分享给大家～欢迎🌟star、fork、follow三连～～～<br>
+# 经过了十几年的积累，我们已经开源了一百多个课程的笔记与代码。会不断更新好的学习路径与笔记、代码分享给大家～欢迎🌟star、fork、follow三连～～～<br>
 
-大致的学习路径、体系、作业、笔记、源码与各种项目如下：<br>
+# 大致的学习路径、体系、作业、笔记、源码与各种项目如下：<br>
 
-怕什么真理无穷，进一寸有一寸的欢喜<br>
-乐学知识，偶得美好！共勉！<br>
+## 怕什么真理无穷，进一寸有一寸的欢喜<br>
+## 乐学知识，偶得美好！共勉！<br>
 
-### 全栈开发大师课(全英文版)（Web_Dev_MasterClass, Full English Version，lecturer is also Williamjiamin）[https://class.lexueoude.com/detail/p_61469ba1e4b0448bf65b42c8/8]<br>
-### (For international student or Chinese student who aspire to work in top-notch IT firms in the world. This course is a FULL ENGLISH COURSE taught by Williamjiamin)[https://class.lexueoude.com/detail/p_61469ba1e4b0448bf65b42c8/8]<br>
+### [全栈开发大师课(全英文版)（Web_Dev_MasterClass, Full English Version，lecturer is also Williamjiamin](https://class.lexueoude.com/detail/p_61469ba1e4b0448bf65b42c8/8)<br>
+### [For international student or Chinese student who aspire to work in top-notch IT firms in the world. This course is a FULL ENGLISH COURSE taught by Williamjiamin](https://class.lexueoude.com/detail/p_61469ba1e4b0448bf65b42c8/8)<br>
 [1.Basic_HTML_CSS](https://github.com/williamjiamin/Web_Dev_MasterClass/tree/master/1.Basic_HTML_CSS)<br>
 [2.Project_Your_Personal_Website](https://github.com/williamjiamin/Web_Dev_MasterClass/tree/master/2.Project_Your_Personal_Website)<br>
 
