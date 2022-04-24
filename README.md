@@ -1,6 +1,8 @@
 ## UPDATE1 IMPORTANT: OUR ONLY OFFICIAL WEBSITE IS lexueoude.com 。 PLEASE DON'T BUY ANY COURSE OR SERVICE FROM OTHER PLATFORM OR PIRATE VERSION.
 ## 各位支持乐学偶得的朋友：乐学偶得课堂的唯一官网是([class.lexueoude.com](https://class.lexueoude.com))，
 ## 为了保障您的权益，请直接到我们官网购买，**不要通过其他三方平台** 或者 **盗版渠道** 购买。感谢您的支持与理解！
+## 关于有意盗版与抄袭我司内容的朋友，请注意：我们在过去的几年中已经委托专业维权的律师事务所发起了数起关于盗版我司内容并出售盈利的个人与企业的诉讼并获得了响应赔偿。
+## 请毋以身试法！感谢朋友们对原创内容的支持！
 
 ## UPDATE2: WE ARE CURRENTLY BULIDING OUR OWN DATABASE AND SOON WILL PROVIDE API FOR YOU GUYS.
 ## 更新： 乐学偶得自主开发的数据服务即将上线，可以配合您数据科学与金融相关内容进行练习，也可以直接使用我们的API数据接口。
@@ -187,7 +189,7 @@ In leisure time, I share interesting technology & finance project online. I also
 
 
 ### 游戏开发/3D建模/C++引擎底层开发
-[点我跳转【游戏开发】方向【视频】，已更新【400】节课+还在持续更新ing.](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000627054&courseId=1208986801&_trace_c_p_k2_=895bb2135d4449e29cb34064de8482ac) <br>
+[点我跳转【游戏开发】方向【视频】，已更新【400】节课+还在持续更新ing.](https://appIgsDUGka5944.h5.xiaoeknow.com/content_page/eyJ0eXBlIjozLCJyZXNvdXJjZV90eXBlIjo4LCJyZXNvdXJjZV9pZCI6IiIsInByb2R1Y3RfaWQiOiJwXzYxMDUwM2NjZTRiMGEyN2QwZTM3YzcwZSIsImFwcF9pZCI6ImFwcElnc0RVR2thNTk0NCJ9) <br>
 配套代码、笔记开源：<br>
 [1.从零搭建3D冒险游戏](https://github.com/williamjiamin/CS_Game_Dev_Edu)<br>
 [2.从零搭建RTS即时战略游戏](https://github.com/williamjiamin/RTS_Game_Dev)<br>
