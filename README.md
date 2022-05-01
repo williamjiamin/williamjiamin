@@ -36,6 +36,9 @@ In leisure time, I share interesting technology & finance project online. I also
 [2.Project_Your_Personal_Website](https://github.com/williamjiamin/Web_Dev_MasterClass/tree/master/2.Project_Your_Personal_Website)<br>
 
 
+### [找一份不那么卷的外企程序员工作之如何制作个人简历与项目展示网站](https://github.com/williamjiamin/MyPortfolio)
+
+
 ### Python零基础入门与6大热门应用方向（量化、自动办公、数据科学与机器学习、全栈开发、计算机视觉、算法等）
 
 [【特别推荐】点我跳转【Python零基础入门到6大热门应用方向】系统化【视频】，已更新4000节课+还在持续更新ing](https://class.lexueoude.com/detail/p_5efc56933014c_Z7Mzyb8p/8) <br>
@@ -222,7 +225,7 @@ In leisure time, I share interesting technology & finance project online. I also
 
 ### 乐学偶得音乐大合集： <br>
 
-Bass中英双语版：
+[Bass中英双语版](https://github.com/williamjiamin/Bass_Intro)
 Ukulele中英双语版：
 吉他/电吉他中英双语版：
 钢琴中英双语版：
