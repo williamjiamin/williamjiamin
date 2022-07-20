@@ -161,6 +161,10 @@ In leisure time, I share interesting technology & finance project online. I also
 
 ### 量化投资系列（FinTech/Q_Quant/P_Quant）
 
+
+### 【强烈建议-学习CFA系列。打好金融基础并获得华尔街的入场券】[5000+系列早鸟价](https://appIgsDUGka5944.h5.xiaoeknow.com/p/course/big_column/p_60c4417be4b07e4d7fde7582)
+
+
 [点我跳转【FinTech金融科技（这部分为系统性介绍金融市场、各类金融产品、经济与财经等基础知识与Python在金融中的入门应用为主，偏量化金融应用）】方向【视频】，已更新【400】节课+还在持续更新ing](https://class.lexueoude.com/detail/p_5efee94be4b036f1c0ce4492/8) <br>
 [点我跳转【Python量化（这部分为量化技术指标分析与自定义讲解、量化策略构建等为主，偏资本市场的量化应用）】方向【视频】，已更新【300】节课+还在持续更新ing](https://class.lexueoude.com/detail/p_5f0575bfe4b036f1c0cf7880/8) <br>
 配套代码、笔记开源：<br>
