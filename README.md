@@ -1,31 +1,21 @@
 ## UPDATE1 IMPORTANT: OUR ONLY OFFICIAL WEBSITE IS lexueoude.com 。 PLEASE DON'T BUY ANY COURSE OR SERVICE FROM OTHER PLATFORM OR PIRATE VERSION.
 ## 各位支持乐学偶得的朋友：乐学偶得课堂的唯一官网是([class.lexueoude.com](https://class.lexueoude.com))，
-## 各位支持樂學偶得的朋友：樂學偶得課堂的唯一官網是([class.lexueoude.com](https://class.lexueoude.com))，
 
 ## 【国内小伙伴可以关注公众号1：乐学偶得 公众号2:乐学偶得服务号 或者添加小管家微信：lxodxgj】
-## 【海外小伙伴可以关注WIlliam Jiamin的Twitter： WIlliamjiamin8 或者关注我们的youtube： 乐学偶得 】
-## 【國內小夥伴可以關註公眾號1：樂學偶得 公眾號2:樂學偶得服務號 或者添加小管家微信：lxodxgj】
-## 【海外小夥伴可以關註WIlliam Jiamin的Twitter： WIlliamjiamin8 或者關註我們的youtube： 樂學偶得 】
+## 【海外小伙伴可以关注WIlliam Jiamin的Twitter： WIlliamjiaminEN 或者关注我们的youtube： 乐学偶得 】
 
 ### 为了保障您的权益，请直接到我们官网购买，**不要通过其他三方平台** 或者 **盗版渠道** 购买。感谢您的支持与理解！
 ### 关于有意盗版与抄袭我司内容的朋友，请注意：我们对盗版与抄袭采取“零容忍”政策，在过去的几年中已经委托专业维权的律师事务所发起了数起关于盗版我司内容并出售盈利的个人与企业的诉讼并获得了相应赔偿。
 ### 我们会定期全网排查盗版与抄袭内容，盗版抄袭必告，请毋以身试法！也感谢朋友们对原创内容的支持！
 
-### 為了保障您的權益，請直接到我們官網購買，**不要通過其他三方平臺** 或者 **盜版渠道** 購買。感謝您的支持與理解！
-### 關於有意盜版與抄襲我司內容的朋友，請註意：我們對盜版與抄襲采取「零容忍」政策，在過去的幾年中已經委托專業維權的律師事務所發起了數起關於盜版我司內容並出售盈利的個人與企業的訴訟並獲得了相應賠償。
-### 我們會定期全網排查盜版與抄襲內容，盜版抄襲必告，請毋以身試法！也感謝朋友們對原創內容的支持！
-
 ### UPDATE2: WE ARE CURRENTLY BULIDING OUR OWN DATABASE AND SOON WILL PROVIDE API FOR YOU GUYS.
 ### 更新： 乐学偶得自主开发的数据服务即将上线，可以配合您数据科学与金融相关内容进行练习，也可以直接使用我们的API数据接口。
-### 更新： 樂學偶得自主開發的數據服務即將上線，可以配合您數據科學與金融相關內容進行練習，也可以直接使用我們的API數據接口。
 
 ### UPDATE3: lexueoude.vip podcast subscription is online!!! AND IT IS FREE! [Subscription Link](https://appIgsDUGka5944.h5.xiaoeknow.com/evaluation_wechat/customize_form/submit_info/form_JQFPxSEzKVIegb) ~ 
 ### 更新： 乐学偶得VIP国际双语订阅podcast上线了，[点击免费订阅 ](https://appIgsDUGka5944.h5.xiaoeknow.com/evaluation_wechat/customize_form/submit_info/form_JQFPxSEzKVIegb)
-### 更新： 樂學偶得VIP國際雙語訂閱podcast上線了，[點擊免費訂閱 ](https://appIgsDUGka5944.h5.xiaoeknow.com/evaluation_wechat/customize_form/submit_info/form_JQFPxSEzKVIegb)
 
 ### UPDATE4: Currently on lexueoude, we have updated over 8093 lessons (until 2021.12.30)，If you are experiencing issues, please email us at myLXOD@lexueoude.vip
 ### 更新：截止2021年底，乐学偶得知识库共更新了8093节课程，更多内容正在持续更新ing.（因为工作量巨大，如果您遇到您的课程目前还没即时上传或更新代码库、素材等未更新的情况，请私信乐学偶得小管家微信lxodxgj 会提前排期剪辑与上传您需要的内容，感谢理解与配合）
-### 更新：截止2021年底，樂學偶得知識庫共更新了8093節課程，更多內容正在持續更新ing.（因為工作量巨大，如果您遇到您的課程目前還沒即時上傳或更新代碼庫、素材等未更新的情況，請私信樂學偶得小管家微信lxodxgj 會提前排期剪輯與上傳您需要的內容，感謝理解與配合）
 
 ### Hi Internet. I am Williamjiamin. I am A Computer Scientist/Quantitative Analyst/CFA/FRM/CPA/CIA/CCSA/. I used to be a investment banker but soon get bored of "the old and sluggish financal system".Then I worked as a public fund manager with AUM 3 billion.Now,I am currently working as a Private Consultant and manage a private fund for my family&friends.<br>
 In leisure time, I share interesting technology & finance project online. I also do a little bit of venture capital investing to help young people get away from 996 and actually create somthing interesting. I am a Open source and Technology Evangelist and Chief Education Officer of LEXUEOUDE Inc.<br>
@@ -33,23 +23,15 @@ In leisure time, I share interesting technology & finance project online. I also
 
 ### Hi， 你好，我是乐学偶得的William，欢迎来到这里。这里我和一群有趣的教研小伙伴会与大家分享课堂的笔记、代码、前沿项目、好玩儿的内容。更多内容也欢迎关注公众号1：乐学偶得 2:乐学偶得服务号（可以收到订阅的课程更新推送、领取福利券与免费参加定期直播活动） 。也欢迎来乐学偶得玩： lexueoude.com👋<br>
 
-### Hi， 你好，我是樂學偶得的William，歡迎來到這裏。這裏我和一群有趣的教研小夥伴會與大家分享課堂的筆記、代碼、前沿項目、好玩兒的內容。更多內容也歡迎關註公眾號1：樂學偶得 2:樂學偶得服務號（可以收到訂閱的課程更新推送、領取福利券與免費參加定期直播活動） 。也歡迎來樂學偶得玩： lexueoude.com👋<br>
-
 [乐学偶得官网：lexueoude.com](https://www.lexueoude.com)
-[樂學偶得官網：lexueoude.com](https://www.lexueoude.com)
-
 
 
 ### 经过了十几年的积累，我们已经开源了一百多个课程的笔记与代码。会不断更新好的学习路径与笔记、代码分享给大家～欢迎🌟star、fork、follow三连～～～<br>
-### 經過了十幾年的積累，我們已經開源了一百多個課程的筆記與代碼。會不斷更新好的學習路徑與筆記、代碼分享給大家～歡迎🌟star、fork、follow三連～～～<br>
 
 ### 大致的学习路径、体系、作业、笔记、源码与各种项目如下：<br>
-### 大致的學習路徑、體系、作業、筆記、源碼與各種項目如下：<br>
 
 ### 怕什么真理无穷，进一寸有一寸的欢喜<br>
 ### 乐学知识，偶得美好！共勉！<br>
-### 怕什麽真理無窮，進一寸有一寸的歡喜<br>
-### 樂學知識，偶得美好！共勉！<br>
 
 ### [全栈开发大师课(全英文版)（Web_Dev_MasterClass, Full English Version，lecturer is also Williamjiamin](https://class.lexueoude.com/detail/p_61469ba1e4b0448bf65b42c8/8)<br>
 ### [For international student or Chinese student who aspire to work in top-notch IT firms in the world. This course is a FULL ENGLISH COURSE taught by Williamjiamin](https://class.lexueoude.com/detail/p_61469ba1e4b0448bf65b42c8/8)<br>
