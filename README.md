@@ -18,9 +18,8 @@
 ### UPDATE4: Currently on lexueoude, we have updated over 8093 lessons (until 2021.12.30)，If you are experiencing issues, please email us at myLXOD@lexueoude.vip
 ### 更新：截止2021年底，乐学偶得知识库共更新了8093节课程，更多内容正在持续更新ing.（因为工作量巨大，如果您遇到您的课程目前还没即时上传或更新代码库、素材等未更新的情况，请私信乐学偶得小管家微信lxodxgj 会提前排期剪辑与上传您需要的内容，感谢理解与配合）
 
-### Hi Internet. I am Williamjiamin. I am A Computer Scientist/Quantitative Analyst/CFA/FRM/CPA/CIA/CCSA/. I used to be an investment banker but soon get bored of "the old and sluggish financial system".Then I worked as a public fund manager with AUM 3 billion.Now,I am currently working as a Private Consultant and manage a private fund for my family&friends.<br>
-In leisure time, I share interesting technology & finance project online. I also do a little bit of venture capital investing to help young people get away from 996 and actually create somthing interesting. I am a Open source and Technology Evangelist and Chief Education Officer of LEXUEOUDE Inc.<br>
-### Welcome to lexueoude.com. 👋 <br>
+### Hi Internet. I am Williamjiamin. I am A Computer Scientist/Quantitative Analyst/CFA/FRM/CPA/CIA/CCSA/. I used to be an investment banker but soon get bored of "the old and sluggish financial system".Then I worked as a public fund manager with AUM 3 billion.Now,I am currently working as a Private Consultant and manage a private fund for my family&friends.
+In my leisure time, I share exciting technology & finance project online. I also do a little venture capital investing to help young people get away from 996 and create somthing interesting. I am an Open source and Technology Evangelist and Chief Education Officer of LEXUEOUDE Inc. 👋 <br>
 
 ### Hi， 你好，我是乐学偶得的William，欢迎来到这里。这里我和一群有趣的教研小伙伴会与大家分享课堂的笔记、代码、前沿项目、好玩儿的内容。更多内容也欢迎关注公众号1：乐学偶得 2:乐学偶得服务号（可以收到订阅的课程更新推送、领取福利券与免费参加定期直播活动） 。也欢迎来乐学偶得玩： lexueoude.com👋<br>
 
