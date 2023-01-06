@@ -33,14 +33,24 @@ In my leisure time, I share exciting technology & finance project online. I also
 ### 怕什么真理无穷，进一寸有一寸的欢喜<br>
 ### 乐学知识，偶得美好！共勉！<br>
 
+### ============================================================================================================= <br>
+# 【For international student or Chinese student who aspire to work in top-notch IT firms in the world : The following courses are in FULL ENGLISH】
+
 ### [全栈开发大师课(全英文版)（Web_Dev_MasterClass, Full English Version，lecturer is also Williamjiamin](https://class.lexueoude.com/detail/p_61469ba1e4b0448bf65b42c8/8)<br>
 ### [For international student or Chinese student who aspire to work in top-notch IT firms in the world. This course is a FULL ENGLISH COURSE taught by Williamjiamin](https://class.lexueoude.com/detail/p_61469ba1e4b0448bf65b42c8/8)<br>
 [1.Basic_HTML_CSS](https://github.com/williamjiamin/Web_Dev_MasterClass/tree/master/1.Basic_HTML_CSS)<br>
 [2.Project_Your_Personal_Website](https://github.com/williamjiamin/Web_Dev_MasterClass/tree/master/2.Project_Your_Personal_Website)<br>
 
 
-### [找一份不那么卷的外企程序员工作之如何制作个人简历与项目展示网站](https://github.com/williamjiamin/MyPortfolio)
+### [Portfolio Website for job hunting 找一份不那么卷的外企程序员工作之如何制作个人简历与项目展示网站](https://github.com/williamjiamin/MyPortfolio)
 
+
+
+### ============================================================================================================= <br>
+
+
+
+# 【For international student who understand Chinese or Chinese : The following courses are in FULL CHINESE】
 
 ### [重磅挑战超级大项目，我们一起写一个乐学偶得自己的Twitter+微博+微信。连载ing](https://github.com/williamjiamin/MyPortfolio)
 
