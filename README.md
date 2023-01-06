@@ -44,7 +44,10 @@ In my leisure time, I share exciting technology & finance project online. I also
 
 ### [Portfolio Website for job hunting 找一份不那么卷的外企程序员工作之如何制作个人简历与项目展示网站](https://github.com/williamjiamin/MyPortfolio)
 
-### [IOS Development Bootcamp IOS开发大师课]（https://github.com/williamjiamin/IOS-Tutorial-1-OurFirstApp)
+### [IOS Development Bootcamp IOS开发大师课]
+[IOS-Tutorial-1-OurFirstApp]（https://github.com/williamjiamin/IOS-Tutorial-1-OurFirstApp)
+[IOS-Tutorial-2-CyberpunkChooserApp]（https://github.com/williamjiamin/IOS-Tutorial-2-CyberpunkChooserApp)
+
 
 
 
