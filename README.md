@@ -47,8 +47,9 @@ In my leisure time, I share exciting technology & finance project online. I also
 ### [IOS Development Bootcamp IOS开发大师课]
 [IOS-Tutorial-1-OurFirstApp]（https://github.com/williamjiamin/IOS-Tutorial-1-OurFirstApp)
 [IOS-Tutorial-2-CyberpunkChooserApp]（https://github.com/williamjiamin/IOS-Tutorial-2-CyberpunkChooserApp)
+[IOS-Tutorial-3-musicPlayerApp]（https://github.com/williamjiamin/IOS-Tutorial-3-musicPlayerApp)
 
-
+### [重磅挑战超级大项目，我们一起写一个乐学偶得自己的Twitter+微博+微信。连载ing Big Challenge Write our own Twitter like App](https://github.com/williamjiamin/MyPortfolio)
 
 
 ### ============================================================================================================= <br>
@@ -57,7 +58,7 @@ In my leisure time, I share exciting technology & finance project online. I also
 
 # 【For international student who understand Chinese or Chinese : The following courses are in FULL CHINESE】
 
-### [重磅挑战超级大项目，我们一起写一个乐学偶得自己的Twitter+微博+微信。连载ing](https://github.com/williamjiamin/MyPortfolio)
+
 
 
 ### Python零基础入门与6大热门应用方向（量化、自动办公、数据科学与机器学习、全栈开发、计算机视觉、算法等）
