@@ -15,8 +15,8 @@
 ### UPDATE3: lexueoude.vip podcast subscription is online!!! AND IT IS FREE! [Subscription Link](https://appIgsDUGka5944.h5.xiaoeknow.com/evaluation_wechat/customize_form/submit_info/form_JQFPxSEzKVIegb) ~ 
 ### 更新： 乐学偶得VIP国际双语订阅podcast上线了，[点击免费订阅 ](https://appIgsDUGka5944.h5.xiaoeknow.com/evaluation_wechat/customize_form/submit_info/form_JQFPxSEzKVIegb)
 
-### UPDATE4: Currently on lexueoude, we have updated over 8093 lessons (until 2021.12.30)，If you are experiencing issues, please email us at myLXOD@lexueoude.vip
-### 更新：截止2021年底，乐学偶得知识库共更新了8093节课程，更多内容正在持续更新ing.（因为工作量巨大，如果您遇到您的课程目前还没即时上传或更新代码库、素材等未更新的情况，请私信乐学偶得小管家微信lxodxgj 会提前排期剪辑与上传您需要的内容，感谢理解与配合）
+### UPDATE4: Currently on lexueoude, we have updated over 12,415 lessons (until 2022.12.30)，If you are experiencing issues, please email us at myLXOD@lexueoude.vip
+### 更新：截止2022年底，乐学偶得知识库共更新了12415节课程，更多内容正在持续更新ing.（因为工作量巨大，如果您遇到您的课程目前还没即时上传或更新代码库、素材等未更新的情况，请私信乐学偶得小管家微信lxodxgj 会提前排期剪辑与上传您需要的内容，感谢理解与配合）
 
 ### Hi Internet. I am Williamjiamin. I am A Computer Scientist/Quantitative Analyst/CFA/FRM/CPA/CIA/CCSA/. I used to be an investment banker but soon get bored of "the old and sluggish financial system".Then I worked as a public fund manager with AUM 3 billion.Now,I am currently working as a Private Consultant and manage a private fund for my family&friends.
 In my leisure time, I share exciting technology & finance project online. I also do a little venture capital investing to help young people get away from 996 and create something interesting. I am an Open source and Technology Evangelist and Chief Education Officer of LEXUEOUDE Inc. 👋 <br>
@@ -42,21 +42,21 @@ In my leisure time, I share exciting technology & finance project online. I also
 [2.Project_Your_Personal_Website](https://github.com/williamjiamin/Web_Dev_MasterClass/tree/master/2.Project_Your_Personal_Website)<br>
 
 
-### [Portfolio Website for job hunting 找一份不那么卷的外企程序员工作之如何制作个人简历与项目展示网站](https://github.com/williamjiamin/MyPortfolio)
+### [Portfolio Website for job hunting 找一份不那么卷的外企程序员工作之如何制作个人简历与项目展示网站](https://github.com/williamjiamin/MyPortfolio)<br>
 
-### [IOS Development Bootcamp IOS开发大师课]
-[IOS-Tutorial-1-OurFirstApp]（https://github.com/williamjiamin/IOS-Tutorial-1-OurFirstApp)
-[IOS-Tutorial-2-CyberpunkChooserApp]（https://github.com/williamjiamin/IOS-Tutorial-2-CyberpunkChooserApp)
-[IOS-Tutorial-3-musicPlayerApp]（https://github.com/williamjiamin/IOS-Tutorial-3-musicPlayerApp)
+### [IOS Development Bootcamp IOS开发大师课]<br>
+[IOS-Tutorial-1-OurFirstApp]（https://github.com/williamjiamin/IOS-Tutorial-1-OurFirstApp)<br>
+[IOS-Tutorial-2-CyberpunkChooserApp]（https://github.com/williamjiamin/IOS-Tutorial-2-CyberpunkChooserApp)<br>
+[IOS-Tutorial-3-musicPlayerApp]（https://github.com/williamjiamin/IOS-Tutorial-3-musicPlayerApp)<br>
 
-### [重磅挑战超级大项目，我们一起写一个乐学偶得自己的Twitter+微博+微信。连载ing Big Challenge Write our own Twitter like App]([https://github.com/williamjiamin/MyPortfolio](https://github.com/williamjiamin/lxodhome))
+### [重磅挑战超级大项目，我们一起写一个乐学偶得自己的Twitter+微博+微信。连载ing Big Challenge Write our own Twitter like App]([https://github.com/williamjiamin/MyPortfolio](https://github.com/williamjiamin/lxodhome))<br>
 
 
 ### ============================================================================================================= <br>
 
 
 
-# 【For international student who understand Chinese or Chinese : The following courses are in FULL CHINESE】
+# 【For international student who understand Chinese or Chinese : The following courses are in FULL CHINESE】<br>
 
 
 
