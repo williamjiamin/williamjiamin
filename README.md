@@ -52,6 +52,10 @@ In my leisure time, I share exciting technology & finance project online. I also
 ### [重磅挑战超级大项目，我们一起写一个乐学偶得自己的Twitter+微博+微信。连载ing Big Challenge Write our own Twitter like App](https://github.com/williamjiamin/MyPortfolio](https://github.com/williamjiamin/lxodhome)<br>
 
 
+
+### [Blender Low Poly Character Modeling Tutorial](https://github.com/williamjiamin/Blender_Low_Poly_Character)
+
+
 ### ============================================================================================================= <br>
 
 
