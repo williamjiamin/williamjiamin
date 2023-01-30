@@ -127,6 +127,7 @@ In my leisure time, I share exciting technology & finance project online. I also
 [9_kotlin_about_app](https://github.com/williamjiamin/kotlin_android_app_intro_9_kotlin_about_app)<br>
 [10_advance_kotlin](https://github.com/williamjiamin/kotlin_android_app_intro_10_advance_kotlin)<br>
 [11_kotlin_dict_app](https://github.com/williamjiamin/kotlin_android_app_intro_11_kotlin_dict_app)<br>
+[12 Kotlin rolling the dice app](https://github.com/williamjiamin/kotlin_android_app_intro_12_rolling_the_dice_app)
 
 
 ### C语言入门
