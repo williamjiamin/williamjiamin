@@ -2,7 +2,8 @@
 ## 各位支持乐学偶得的朋友：乐学偶得课堂的唯一官网是([class.lexueoude.com](https://class.lexueoude.com))，
 
 ## 【国内小伙伴可以关注公众号1：乐学偶得 公众号2:乐学偶得服务号 或者添加小管家微信：lxodxgj】
-## 【海外小伙伴可以关注WIlliam Jiamin的Twitter： [WilliamjiaminEN](https://twitter.com/WilliamjiaminEn) 或者关注William的youtube： [Learn Digital Art with William Jiamin](https://www.youtube.com/channel/UCj6pLaQCjSaCFesCFt3fP7Q) 和 [Learn-IT-Free with William Jiamin](https://www.youtube.com/channel/UCybCo7AM9Vxc9qwFpTQiThw) 】
+## 【海外小伙伴可以关注WIlliam Jiamin的Twitter： [WilliamjiaminEN](https://twitter.com/WilliamjiaminEn) 或者关注William的youtube： [Learn Digital Art with William Jiamin](https://www.youtube.com/channel/UCj6pLaQCjSaCFesCFt3fP7Q) , [Learn-IT-Free with William Jiamin](https://www.youtube.com/channel/UCybCo7AM9Vxc9qwFpTQiThw) 】,[Learn-Finance-Free with William Jiamin](https://www.youtube.com/channel/UCEWaN4g2dHVbW8gv17m4qZQ)
+## For English Speaking Friends , you can follow me on Twitter： [WilliamjiaminEN](https://twitter.com/WilliamjiaminEn)  or subscribe to my youtube channel： [Learn Digital Art with William Jiamin](https://www.youtube.com/channel/UCj6pLaQCjSaCFesCFt3fP7Q) , [Learn-IT-Free with William Jiamin](https://www.youtube.com/channel/UCybCo7AM9Vxc9qwFpTQiThw) and  [Learn-Finance-Free with William Jiamin](https://www.youtube.com/channel/UCEWaN4g2dHVbW8gv17m4qZQ)
 
 
 ### 为了保障您的权益，请直接到我们官网购买，**不要通过其他三方平台** 或者 **盗版渠道** 购买。感谢您的支持与理解！
