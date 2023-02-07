@@ -6,9 +6,9 @@
 # For English Speaking Friends , you can follow me on Twitter： [WilliamjiaminEN](https://twitter.com/WilliamjiaminEn)  or subscribe to my youtube channel： [Learn Digital Art with William Jiamin](https://www.youtube.com/channel/UCj6pLaQCjSaCFesCFt3fP7Q) , [Learn-IT-Free with William Jiamin](https://www.youtube.com/channel/UCybCo7AM9Vxc9qwFpTQiThw) and  [Learn-Finance-Free with William Jiamin](https://www.youtube.com/channel/UCEWaN4g2dHVbW8gv17m4qZQ)<br>
 
 # Our International Website: <br>
-For general finance learning and preperation of CFA FRM CPA ACCA :[Learn-Finance-Free with William Jiamin](https://learn-finance-free.com)<br>
+# For general finance learning and preperation of CFA FRM CPA ACCA :[Learn-Finance-Free with William Jiamin](https://learn-finance-free.com)<br>
 
-For coding and AI learning :[Learn-IT-Free with William Jiamin](https://learn-it-free.com)<br>
+# For coding and AI learning :[Learn-IT-Free with William Jiamin](https://learn-it-free.com)<br>
 
 
 
