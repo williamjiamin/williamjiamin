@@ -66,6 +66,10 @@ In my leisure time, I share exciting technology & finance project online. I also
 [IOS-Tutorial-1-OurFirstApp]（https://github.com/williamjiamin/IOS-Tutorial-1-OurFirstApp)<br>
 [IOS-Tutorial-2-CyberpunkChooserApp]（https://github.com/williamjiamin/IOS-Tutorial-2-CyberpunkChooserApp)<br>
 [IOS-Tutorial-3-musicPlayerApp]（https://github.com/williamjiamin/IOS-Tutorial-3-musicPlayerApp)<br>
+[IOS-Tutorial-4-countdownApp]（https://github.com/williamjiamin/IOS-Tutorial-4-CountDownApp)<br>
+[IOS-Tutorial-5-QuestionBankAppApp]（https://github.com/williamjiamin/IOS-Tutorial-5-QuestionBankApp)<br>
+[IOS-Tutorial-6-TipCalculatorApp]（https://github.com/williamjiamin/IOS-Tutorial-6-TipCalculator)<br>
+
 
 ### [重磅挑战超级大项目，我们一起写一个乐学偶得自己的Twitter+微博+微信。连载ing Big Challenge Write our own Twitter like App](https://github.com/williamjiamin/MyPortfolio](https://github.com/williamjiamin/lxodhome)<br>
 
