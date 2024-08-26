@@ -25,5 +25,4 @@ For any inquiries or further information, please do not hesitate to reach out to
 
 Thank you for your understanding and continued support.
 
----
-*This message was last updated on [Insert Last Update Date].*
+
