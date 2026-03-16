@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=700&color=F97316&center=true&vCenter=true&repeat=true&width=900&lines=Building+AI-assisted+apps+that+feel+human;Turning+complex+topics+into+clear+learning+experiences;Shipping+iOS+products%2C+creative+tools%2C+and+education+projects" alt="Typing animation introducing William Jiamin" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=700&color=F97316&center=true&vCenter=true&repeat=true&width=760&lines=AI-assisted+apps+with+human-centered+UX;Learning+projects+that+make+complex+topics+clear;iOS%2C+Python%2C+creative+tools%2C+and+public+experiments" alt="Typing animation introducing William Jiamin" />
 </div>
 
 <p align="center">
@@ -91,9 +91,20 @@ Creative coding    -> interfaces and tools with a stronger visual identity
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamjiamin&layout=compact&hide_border=true&bg_color=0d1117&title_color=f8fafc&text_color=cbd5e1" alt="Top languages used by William Jiamin" />
 </div>
 
-## Activity graph
+## Snapshot
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=williamjiamin&bg_color=0d1117&color=cbd5e1&line=14b8a6&point=f97316&area=true&hide_border=true" alt="GitHub activity graph for William Jiamin" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Build style</strong><br />
+      Clear UX, practical features, and public-facing experiments that feel polished instead of generic.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Main lanes</strong><br />
+      AI apps, iOS products, Python education, and creative developer tools.
+    </td>
+  </tr>
+</table>
 
 ## Around the web
 

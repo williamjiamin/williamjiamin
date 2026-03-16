@@ -1,4 +1,4 @@
-<svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1200" height="600" viewBox="0 0 1200 600" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">William Jiamin profile showcase</title>
   <desc id="desc">An animated profile card highlighting AI apps, learning systems, and creative tools.</desc>
   <defs>
@@ -15,7 +15,7 @@
       <stop stop-color="#2563EB" stop-opacity="0.24"/>
       <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
     </radialGradient>
-    <filter id="shadow" x="-40" y="-40" width="1280" height="640" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+    <filter id="shadow" x="-40" y="-40" width="1280" height="680" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
       <feOffset dy="18"/>
       <feGaussianBlur stdDeviation="18"/>
       <feColorMatrix type="matrix" values="0 0 0 0 0.0588235 0 0 0 0 0.0941176 0 0 0 0 0.172549 0 0 0 0.13 0"/>
@@ -27,21 +27,21 @@
   </defs>
 
   <g filter="url(#shadow)">
-    <rect x="20" y="20" width="1160" height="520" rx="36" fill="url(#bg)"/>
-    <rect x="20" y="20" width="1160" height="520" rx="36" stroke="#E2E8F0" stroke-width="2"/>
-    <rect x="20" y="20" width="1160" height="520" rx="36" fill="url(#dots)"/>
+    <rect x="20" y="20" width="1160" height="560" rx="36" fill="url(#bg)"/>
+    <rect x="20" y="20" width="1160" height="560" rx="36" stroke="#E2E8F0" stroke-width="2"/>
+    <rect x="20" y="20" width="1160" height="560" rx="36" fill="url(#dots)"/>
   </g>
 
   <circle cx="196" cy="108" r="210" fill="url(#glowLeft)">
     <animate attributeName="cx" values="196;220;196" dur="9s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="1004" cy="452" r="240" fill="url(#glowRight)">
-    <animate attributeName="cy" values="452;430;452" dur="10s" repeatCount="indefinite"/>
+  <circle cx="1004" cy="476" r="240" fill="url(#glowRight)">
+    <animate attributeName="cy" values="476;452;476" dur="10s" repeatCount="indefinite"/>
   </circle>
 
-  <path d="M700 432C776 356 920 344 1048 410" stroke="#0F172A" stroke-opacity="0.12" stroke-width="4" stroke-linecap="round" stroke-dasharray="8 14"/>
+  <path d="M700 456C776 380 920 368 1048 434" stroke="#0F172A" stroke-opacity="0.12" stroke-width="4" stroke-linecap="round" stroke-dasharray="8 14"/>
   <circle r="8" fill="#F97316">
-    <animateMotion dur="7s" repeatCount="indefinite" path="M700 432C776 356 920 344 1048 410"/>
+    <animateMotion dur="7s" repeatCount="indefinite" path="M700 456C776 380 920 368 1048 434"/>
   </circle>
 
   <g>
@@ -50,36 +50,39 @@
     <text x="78" y="266" fill="#0F172A" font-size="64" font-weight="700" font-family="Trebuchet MS, Verdana, sans-serif">Learning systems</text>
     <text x="78" y="344" fill="#0F172A" font-size="64" font-weight="700" font-family="Trebuchet MS, Verdana, sans-serif">Creative tools</text>
     <text x="78" y="406" fill="#334155" font-size="26" font-family="Trebuchet MS, Verdana, sans-serif">Code, design, education, and public experiments.</text>
-    <text x="78" y="442" fill="#64748B" font-size="22" font-family="Courier New, monospace">Building useful things with personality and clarity.</text>
+    <text x="78" y="442" fill="#64748B" font-size="22" font-family="Courier New, monospace">Useful things with clarity and personality.</text>
   </g>
 
-  <g transform="translate(740 74)">
-    <animateTransform attributeName="transform" type="translate" values="740 74;740 58;740 74" dur="6.5s" repeatCount="indefinite"/>
-    <rect width="352" height="116" rx="24" fill="#FFFFFF" fill-opacity="0.82"/>
-    <rect x="1.5" y="1.5" width="349" height="113" rx="22.5" stroke="#E2E8F0" stroke-width="3"/>
+  <g transform="translate(730 74)">
+    <animateTransform attributeName="transform" type="translate" values="730 74;730 58;730 74" dur="6.5s" repeatCount="indefinite"/>
+    <rect width="376" height="132" rx="24" fill="#FFFFFF" fill-opacity="0.82"/>
+    <rect x="1.5" y="1.5" width="373" height="129" rx="22.5" stroke="#E2E8F0" stroke-width="3"/>
     <rect x="24" y="24" width="70" height="12" rx="6" fill="#14B8A6"/>
     <text x="24" y="58" fill="#0F172A" font-size="28" font-weight="700" font-family="Trebuchet MS, Verdana, sans-serif">CURRENT</text>
-    <text x="24" y="88" fill="#334155" font-size="22" font-family="Trebuchet MS, Verdana, sans-serif">SimpleBible // AI study guide + voice + search</text>
+    <text x="24" y="88" fill="#334155" font-size="20" font-family="Trebuchet MS, Verdana, sans-serif">SimpleBible //</text>
+    <text x="24" y="114" fill="#334155" font-size="20" font-family="Trebuchet MS, Verdana, sans-serif">AI study guide, voice, and search</text>
   </g>
 
-  <g transform="translate(792 224)">
-    <animateTransform attributeName="transform" type="translate" values="792 224;792 236;792 224" dur="7.8s" repeatCount="indefinite"/>
-    <rect width="308" height="102" rx="22" fill="#0F172A"/>
+  <g transform="translate(780 240)">
+    <animateTransform attributeName="transform" type="translate" values="780 240;780 252;780 240" dur="7.8s" repeatCount="indefinite"/>
+    <rect width="332" height="122" rx="22" fill="#0F172A"/>
     <rect x="22" y="22" width="56" height="10" rx="5" fill="#F97316"/>
     <text x="22" y="58" fill="#F8FAFC" font-size="26" font-weight="700" font-family="Trebuchet MS, Verdana, sans-serif">RECENT</text>
-    <text x="22" y="84" fill="#CBD5E1" font-size="20" font-family="Trebuchet MS, Verdana, sans-serif">Simple-Pattern // design-forward iOS utility</text>
+    <text x="22" y="84" fill="#CBD5E1" font-size="19" font-family="Trebuchet MS, Verdana, sans-serif">Simple-Pattern //</text>
+    <text x="22" y="108" fill="#CBD5E1" font-size="19" font-family="Trebuchet MS, Verdana, sans-serif">design-forward iOS utility</text>
   </g>
 
-  <g transform="translate(690 356)">
-    <animateTransform attributeName="transform" type="translate" values="690 356;690 344;690 356" dur="6.9s" repeatCount="indefinite"/>
-    <rect width="360" height="104" rx="22" fill="#FFFFFF" fill-opacity="0.88"/>
-    <rect x="1.5" y="1.5" width="357" height="101" rx="20.5" stroke="#DBEAFE" stroke-width="3"/>
+  <g transform="translate(680 394)">
+    <animateTransform attributeName="transform" type="translate" values="680 394;680 382;680 394" dur="6.9s" repeatCount="indefinite"/>
+    <rect width="392" height="126" rx="22" fill="#FFFFFF" fill-opacity="0.88"/>
+    <rect x="1.5" y="1.5" width="389" height="123" rx="20.5" stroke="#DBEAFE" stroke-width="3"/>
     <circle cx="38" cy="38" r="12" fill="#2563EB"/>
     <text x="66" y="44" fill="#0F172A" font-size="24" font-weight="700" font-family="Trebuchet MS, Verdana, sans-serif">ALWAYS IN THE MIX</text>
-    <text x="24" y="78" fill="#334155" font-size="20" font-family="Trebuchet MS, Verdana, sans-serif">Python, Swift, education repos, product polish, and creative exploration</text>
+    <text x="24" y="78" fill="#334155" font-size="18" font-family="Trebuchet MS, Verdana, sans-serif">Python, Swift, education repos,</text>
+    <text x="24" y="102" fill="#334155" font-size="18" font-family="Trebuchet MS, Verdana, sans-serif">product polish, and creative exploration</text>
   </g>
 
-  <g transform="translate(78 478)">
+  <g transform="translate(78 518)">
     <rect x="0" y="0" width="124" height="34" rx="17" fill="#0F172A"/>
     <text x="24" y="22" fill="#F8FAFC" font-size="16" font-family="Courier New, monospace">Swift</text>
 
