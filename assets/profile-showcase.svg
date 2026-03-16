@@ -1,0 +1,98 @@
+<svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">William Jiamin profile showcase</title>
+  <desc id="desc">An animated profile card highlighting AI apps, learning systems, and creative tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="78" y1="32" x2="1092" y2="514" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF7ED"/>
+      <stop offset="0.52" stop-color="#EFF6FF"/>
+      <stop offset="1" stop-color="#ECFDF5"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(196 108) rotate(72.07) scale(236 236)">
+      <stop stop-color="#F97316" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#F97316" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1004 452) rotate(90) scale(220 260)">
+      <stop stop-color="#2563EB" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-40" y="-40" width="1280" height="640" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feOffset dy="18"/>
+      <feGaussianBlur stdDeviation="18"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.0588235 0 0 0 0 0.0941176 0 0 0 0 0.172549 0 0 0 0.13 0"/>
+      <feBlend in2="SourceGraphic" result="shape"/>
+    </filter>
+    <pattern id="dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1.5" fill="#0F172A" fill-opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <g filter="url(#shadow)">
+    <rect x="20" y="20" width="1160" height="520" rx="36" fill="url(#bg)"/>
+    <rect x="20" y="20" width="1160" height="520" rx="36" stroke="#E2E8F0" stroke-width="2"/>
+    <rect x="20" y="20" width="1160" height="520" rx="36" fill="url(#dots)"/>
+  </g>
+
+  <circle cx="196" cy="108" r="210" fill="url(#glowLeft)">
+    <animate attributeName="cx" values="196;220;196" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1004" cy="452" r="240" fill="url(#glowRight)">
+    <animate attributeName="cy" values="452;430;452" dur="10s" repeatCount="indefinite"/>
+  </circle>
+
+  <path d="M700 432C776 356 920 344 1048 410" stroke="#0F172A" stroke-opacity="0.12" stroke-width="4" stroke-linecap="round" stroke-dasharray="8 14"/>
+  <circle r="8" fill="#F97316">
+    <animateMotion dur="7s" repeatCount="indefinite" path="M700 432C776 356 920 344 1048 410"/>
+  </circle>
+
+  <g>
+    <text x="78" y="90" fill="#0F172A" font-size="18" font-family="Trebuchet MS, Verdana, sans-serif" letter-spacing="3">WILLIAM JIAMIN // PUBLIC WORKSHOP</text>
+    <text x="78" y="188" fill="#0F172A" font-size="64" font-weight="700" font-family="Trebuchet MS, Verdana, sans-serif">AI apps</text>
+    <text x="78" y="266" fill="#0F172A" font-size="64" font-weight="700" font-family="Trebuchet MS, Verdana, sans-serif">Learning systems</text>
+    <text x="78" y="344" fill="#0F172A" font-size="64" font-weight="700" font-family="Trebuchet MS, Verdana, sans-serif">Creative tools</text>
+    <text x="78" y="406" fill="#334155" font-size="26" font-family="Trebuchet MS, Verdana, sans-serif">Code, design, education, and public experiments.</text>
+    <text x="78" y="442" fill="#64748B" font-size="22" font-family="Courier New, monospace">Building useful things with personality and clarity.</text>
+  </g>
+
+  <g transform="translate(740 74)">
+    <animateTransform attributeName="transform" type="translate" values="740 74;740 58;740 74" dur="6.5s" repeatCount="indefinite"/>
+    <rect width="352" height="116" rx="24" fill="#FFFFFF" fill-opacity="0.82"/>
+    <rect x="1.5" y="1.5" width="349" height="113" rx="22.5" stroke="#E2E8F0" stroke-width="3"/>
+    <rect x="24" y="24" width="70" height="12" rx="6" fill="#14B8A6"/>
+    <text x="24" y="58" fill="#0F172A" font-size="28" font-weight="700" font-family="Trebuchet MS, Verdana, sans-serif">CURRENT</text>
+    <text x="24" y="88" fill="#334155" font-size="22" font-family="Trebuchet MS, Verdana, sans-serif">SimpleBible // AI study guide + voice + search</text>
+  </g>
+
+  <g transform="translate(792 224)">
+    <animateTransform attributeName="transform" type="translate" values="792 224;792 236;792 224" dur="7.8s" repeatCount="indefinite"/>
+    <rect width="308" height="102" rx="22" fill="#0F172A"/>
+    <rect x="22" y="22" width="56" height="10" rx="5" fill="#F97316"/>
+    <text x="22" y="58" fill="#F8FAFC" font-size="26" font-weight="700" font-family="Trebuchet MS, Verdana, sans-serif">RECENT</text>
+    <text x="22" y="84" fill="#CBD5E1" font-size="20" font-family="Trebuchet MS, Verdana, sans-serif">Simple-Pattern // design-forward iOS utility</text>
+  </g>
+
+  <g transform="translate(690 356)">
+    <animateTransform attributeName="transform" type="translate" values="690 356;690 344;690 356" dur="6.9s" repeatCount="indefinite"/>
+    <rect width="360" height="104" rx="22" fill="#FFFFFF" fill-opacity="0.88"/>
+    <rect x="1.5" y="1.5" width="357" height="101" rx="20.5" stroke="#DBEAFE" stroke-width="3"/>
+    <circle cx="38" cy="38" r="12" fill="#2563EB"/>
+    <text x="66" y="44" fill="#0F172A" font-size="24" font-weight="700" font-family="Trebuchet MS, Verdana, sans-serif">ALWAYS IN THE MIX</text>
+    <text x="24" y="78" fill="#334155" font-size="20" font-family="Trebuchet MS, Verdana, sans-serif">Python, Swift, education repos, product polish, and creative exploration</text>
+  </g>
+
+  <g transform="translate(78 478)">
+    <rect x="0" y="0" width="124" height="34" rx="17" fill="#0F172A"/>
+    <text x="24" y="22" fill="#F8FAFC" font-size="16" font-family="Courier New, monospace">Swift</text>
+
+    <rect x="138" y="0" width="136" height="34" rx="17" fill="#0F172A"/>
+    <text x="162" y="22" fill="#F8FAFC" font-size="16" font-family="Courier New, monospace">Python</text>
+
+    <rect x="288" y="0" width="172" height="34" rx="17" fill="#0F172A"/>
+    <text x="312" y="22" fill="#F8FAFC" font-size="16" font-family="Courier New, monospace">GitHub Pages</text>
+
+    <rect x="474" y="0" width="160" height="34" rx="17" fill="#0F172A"/>
+    <text x="498" y="22" fill="#F8FAFC" font-size="16" font-family="Courier New, monospace">Jupyter</text>
+
+    <rect x="648" y="0" width="188" height="34" rx="17" fill="#0F172A"/>
+    <text x="672" y="22" fill="#F8FAFC" font-size="16" font-family="Courier New, monospace">UI experiments</text>
+  </g>
+</svg>
